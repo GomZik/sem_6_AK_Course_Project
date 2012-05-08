@@ -1,0 +1,6571 @@
+Learning...
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.114200
+	Input weight: 0.329702
+	Input weight: 0.960692
+	Input weight: 0.368795
+	Input weight: 0.347635
+	Input weight: 0.500106
+	Input weight: 0.534092
+	Input weight: 0.438373
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.931595
+	Input weight: 0.999538
+	Input weight: 0.848001
+	Input weight: 0.570580
+	Input weight: 0.454984
+	Input weight: 0.772147
+	Input weight: 0.344664
+	Input weight: 0.460902
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.947888
+	Input weight: 0.332919
+	Input weight: 0.312490
+	Input weight: 0.148118
+	Input weight: 0.873365
+	Input weight: 0.616558
+	Input weight: 0.485939
+	Input weight: 0.121602
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.992115
+	Input weight: 0.340061
+	Input weight: 0.140352
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.591523
+	Input weight: 0.138969
+	Input weight: 0.655937
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.121573
+	Input weight: 0.913376
+	Input weight: 0.809286
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.337040
+	Input weight: 0.239647
+	Input weight: 0.201563
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.373753
+	Input weight: 0.168384
+	Input weight: 0.063098
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.579138
+	Input weight: 0.338877
+	Input weight: 0.231443
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.408498
+	Input weight: 0.573828
+	Input weight: 0.711890
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.355807
+	Input weight: 0.051544
+	Input weight: 0.405505
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.768590
+	Input weight: 0.243449
+	Input weight: 0.016852
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.314860
+	Input weight: 0.282022
+	Input weight: 0.635079
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.726858
+	Input weight: 0.763607
+	Input weight: 0.383099
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.114200
+	Input weight: 0.329702
+	Input weight: 0.960692
+	Input weight: 0.368795
+	Input weight: 0.347635
+	Input weight: 0.500106
+	Input weight: 0.534092
+	Input weight: 0.438373
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.931595
+	Input weight: 0.999538
+	Input weight: 0.848001
+	Input weight: 0.570580
+	Input weight: 0.454984
+	Input weight: 0.772147
+	Input weight: 0.344664
+	Input weight: 0.460902
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.947888
+	Input weight: 0.332919
+	Input weight: 0.312490
+	Input weight: 0.148118
+	Input weight: 0.873365
+	Input weight: 0.616558
+	Input weight: 0.485939
+	Input weight: 0.121602
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.983549
+	Input weight: 0.305587
+	Input weight: 0.136085
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.490637
+	Input weight: 0.134756
+	Input weight: 0.541909
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.116691
+	Input weight: 0.828986
+	Input weight: 0.676426
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.337040
+	Input weight: 0.239647
+	Input weight: 0.201563
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.373753
+	Input weight: 0.168384
+	Input weight: 0.063098
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.579138
+	Input weight: 0.338877
+	Input weight: 0.231443
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.408498
+	Input weight: 0.573828
+	Input weight: 0.711890
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.355807
+	Input weight: 0.051544
+	Input weight: 0.405505
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.768590
+	Input weight: 0.243449
+	Input weight: 0.016852
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.314860
+	Input weight: 0.282022
+	Input weight: 0.635079
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.726858
+	Input weight: 0.763607
+	Input weight: 0.383099
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.111560
+	Input weight: 0.297348
+	Input weight: 0.921691
+	Input weight: 0.327319
+	Input weight: 0.311214
+	Input weight: 0.423285
+	Input weight: 0.447914
+	Input weight: 0.378721
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.868983
+	Input weight: 0.999019
+	Input weight: 0.741859
+	Input weight: 0.473605
+	Input weight: 0.389765
+	Input weight: 0.650532
+	Input weight: 0.308250
+	Input weight: 0.394025
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.891745
+	Input weight: 0.289735
+	Input weight: 0.274650
+	Input weight: 0.140656
+	Input weight: 0.764745
+	Input weight: 0.490077
+	Input weight: 0.396464
+	Input weight: 0.116760
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.983549
+	Input weight: 0.305587
+	Input weight: 0.136085
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.490637
+	Input weight: 0.134756
+	Input weight: 0.541909
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.116691
+	Input weight: 0.828986
+	Input weight: 0.676426
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.337040
+	Input weight: 0.239647
+	Input weight: 0.201563
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.373753
+	Input weight: 0.168384
+	Input weight: 0.063098
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.579138
+	Input weight: 0.338877
+	Input weight: 0.231443
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.408498
+	Input weight: 0.573828
+	Input weight: 0.711890
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.355807
+	Input weight: 0.051544
+	Input weight: 0.405505
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.768590
+	Input weight: 0.243449
+	Input weight: 0.016852
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.314860
+	Input weight: 0.282022
+	Input weight: 0.635079
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.726858
+	Input weight: 0.763607
+	Input weight: 0.383099
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.111560
+	Input weight: 0.297348
+	Input weight: 0.921691
+	Input weight: 0.327319
+	Input weight: 0.311214
+	Input weight: 0.423285
+	Input weight: 0.447914
+	Input weight: 0.378721
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.868983
+	Input weight: 0.999019
+	Input weight: 0.741859
+	Input weight: 0.473605
+	Input weight: 0.389765
+	Input weight: 0.650532
+	Input weight: 0.308250
+	Input weight: 0.394025
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.891745
+	Input weight: 0.289735
+	Input weight: 0.274650
+	Input weight: 0.140656
+	Input weight: 0.764745
+	Input weight: 0.490077
+	Input weight: 0.396464
+	Input weight: 0.116760
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.983549
+	Input weight: 0.305587
+	Input weight: 0.136085
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.490637
+	Input weight: 0.134756
+	Input weight: 0.541909
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.116691
+	Input weight: 0.828986
+	Input weight: 0.676426
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.386967
+	Input weight: 0.272849
+	Input weight: 0.227463
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.341056
+	Input weight: 0.164413
+	Input weight: 0.062863
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.638546
+	Input weight: 0.389071
+	Input weight: 0.263083
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.368178
+	Input weight: 0.493303
+	Input weight: 0.607947
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.326789
+	Input weight: 0.051414
+	Input weight: 0.365865
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.800224
+	Input weight: 0.277371
+	Input weight: 0.017127
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.293474
+	Input weight: 0.265917
+	Input weight: 0.541607
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.621968
+	Input weight: 0.658352
+	Input weight: 0.348414
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.111560
+	Input weight: 0.297348
+	Input weight: 0.921691
+	Input weight: 0.327319
+	Input weight: 0.311214
+	Input weight: 0.423285
+	Input weight: 0.447914
+	Input weight: 0.378721
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.868983
+	Input weight: 0.999019
+	Input weight: 0.741859
+	Input weight: 0.473605
+	Input weight: 0.389765
+	Input weight: 0.650532
+	Input weight: 0.308250
+	Input weight: 0.394025
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.891745
+	Input weight: 0.289735
+	Input weight: 0.274650
+	Input weight: 0.140656
+	Input weight: 0.764745
+	Input weight: 0.490077
+	Input weight: 0.396464
+	Input weight: 0.116760
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.966506
+	Input weight: 0.280107
+	Input weight: 0.132510
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.419605
+	Input weight: 0.131246
+	Input weight: 0.457081
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.112712
+	Input weight: 0.706391
+	Input weight: 0.544573
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.386967
+	Input weight: 0.272849
+	Input weight: 0.227463
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.341056
+	Input weight: 0.164413
+	Input weight: 0.062863
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.638546
+	Input weight: 0.389071
+	Input weight: 0.263083
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.368178
+	Input weight: 0.493303
+	Input weight: 0.607947
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.326789
+	Input weight: 0.051414
+	Input weight: 0.365865
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.800224
+	Input weight: 0.277371
+	Input weight: 0.017127
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.293474
+	Input weight: 0.265917
+	Input weight: 0.541607
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.621968
+	Input weight: 0.658352
+	Input weight: 0.348414
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.109308
+	Input weight: 0.273156
+	Input weight: 0.854252
+	Input weight: 0.297095
+	Input weight: 0.284311
+	Input weight: 0.370035
+	Input weight: 0.388106
+	Input weight: 0.336770
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.768013
+	Input weight: 0.997893
+	Input weight: 0.614928
+	Input weight: 0.399788
+	Input weight: 0.339579
+	Input weight: 0.531905
+	Input weight: 0.278026
+	Input weight: 0.342693
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.796019
+	Input weight: 0.259327
+	Input weight: 0.247571
+	Input weight: 0.134520
+	Input weight: 0.629223
+	Input weight: 0.403082
+	Input weight: 0.337958
+	Input weight: 0.112702
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.966506
+	Input weight: 0.280107
+	Input weight: 0.132510
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.419605
+	Input weight: 0.131246
+	Input weight: 0.457081
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.112712
+	Input weight: 0.706391
+	Input weight: 0.544573
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.386967
+	Input weight: 0.272849
+	Input weight: 0.227463
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.341056
+	Input weight: 0.164413
+	Input weight: 0.062863
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.638546
+	Input weight: 0.389071
+	Input weight: 0.263083
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.368178
+	Input weight: 0.493303
+	Input weight: 0.607947
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.326789
+	Input weight: 0.051414
+	Input weight: 0.365865
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.800224
+	Input weight: 0.277371
+	Input weight: 0.017127
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.293474
+	Input weight: 0.265917
+	Input weight: 0.541607
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.621968
+	Input weight: 0.658352
+	Input weight: 0.348414
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.109308
+	Input weight: 0.273156
+	Input weight: 0.854252
+	Input weight: 0.297095
+	Input weight: 0.284311
+	Input weight: 0.370035
+	Input weight: 0.388106
+	Input weight: 0.336770
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.768013
+	Input weight: 0.997893
+	Input weight: 0.614928
+	Input weight: 0.399788
+	Input weight: 0.339579
+	Input weight: 0.531905
+	Input weight: 0.278026
+	Input weight: 0.342693
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.796019
+	Input weight: 0.259327
+	Input weight: 0.247571
+	Input weight: 0.134520
+	Input weight: 0.629223
+	Input weight: 0.403082
+	Input weight: 0.337958
+	Input weight: 0.112702
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.966506
+	Input weight: 0.280107
+	Input weight: 0.132510
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.419605
+	Input weight: 0.131246
+	Input weight: 0.457081
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.112712
+	Input weight: 0.706391
+	Input weight: 0.544573
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.443242
+	Input weight: 0.312213
+	Input weight: 0.258342
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.314915
+	Input weight: 0.160700
+	Input weight: 0.062630
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.691817
+	Input weight: 0.445570
+	Input weight: 0.300669
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.336645
+	Input weight: 0.432477
+	Input weight: 0.519854
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.375188
+	Input weight: 0.053792
+	Input weight: 0.419692
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.825781
+	Input weight: 0.317546
+	Input weight: 0.017410
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.275616
+	Input weight: 0.252114
+	Input weight: 0.468780
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.677251
+	Input weight: 0.708943
+	Input weight: 0.399952
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.109308
+	Input weight: 0.273156
+	Input weight: 0.854252
+	Input weight: 0.297095
+	Input weight: 0.284311
+	Input weight: 0.370035
+	Input weight: 0.388106
+	Input weight: 0.336770
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.768013
+	Input weight: 0.997893
+	Input weight: 0.614928
+	Input weight: 0.399788
+	Input weight: 0.339579
+	Input weight: 0.531905
+	Input weight: 0.278026
+	Input weight: 0.342693
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.796019
+	Input weight: 0.259327
+	Input weight: 0.247571
+	Input weight: 0.134520
+	Input weight: 0.629223
+	Input weight: 0.403082
+	Input weight: 0.337958
+	Input weight: 0.112702
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.941375
+	Input weight: 0.273506
+	Input weight: 0.132978
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.388034
+	Input weight: 0.130938
+	Input weight: 0.417787
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.111588
+	Input weight: 0.604799
+	Input weight: 0.472773
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.443242
+	Input weight: 0.312213
+	Input weight: 0.258342
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.314915
+	Input weight: 0.160700
+	Input weight: 0.062630
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.691817
+	Input weight: 0.445570
+	Input weight: 0.300669
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.336645
+	Input weight: 0.432477
+	Input weight: 0.519854
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.375188
+	Input weight: 0.053792
+	Input weight: 0.419692
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.825781
+	Input weight: 0.317546
+	Input weight: 0.017410
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.275616
+	Input weight: 0.252114
+	Input weight: 0.468780
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.677251
+	Input weight: 0.708943
+	Input weight: 0.399952
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.107530
+	Input weight: 0.255206
+	Input weight: 0.757244
+	Input weight: 0.275075
+	Input weight: 0.264518
+	Input weight: 0.333128
+	Input weight: 0.347005
+	Input weight: 0.307089
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.648074
+	Input weight: 0.995571
+	Input weight: 0.509590
+	Input weight: 0.351027
+	Input weight: 0.305455
+	Input weight: 0.447093
+	Input weight: 0.256455
+	Input weight: 0.307864
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.678833
+	Input weight: 0.240899
+	Input weight: 0.231052
+	Input weight: 0.130680
+	Input weight: 0.520614
+	Input weight: 0.353260
+	Input weight: 0.304038
+	Input weight: 0.110185
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.941375
+	Input weight: 0.273506
+	Input weight: 0.132978
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.388034
+	Input weight: 0.130938
+	Input weight: 0.417787
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.111588
+	Input weight: 0.604799
+	Input weight: 0.472773
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.443242
+	Input weight: 0.312213
+	Input weight: 0.258342
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.314915
+	Input weight: 0.160700
+	Input weight: 0.062630
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.691817
+	Input weight: 0.445570
+	Input weight: 0.300669
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.336645
+	Input weight: 0.432477
+	Input weight: 0.519854
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.375188
+	Input weight: 0.053792
+	Input weight: 0.419692
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.825781
+	Input weight: 0.317546
+	Input weight: 0.017410
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.275616
+	Input weight: 0.252114
+	Input weight: 0.468780
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.677251
+	Input weight: 0.708943
+	Input weight: 0.399952
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.107530
+	Input weight: 0.255206
+	Input weight: 0.757244
+	Input weight: 0.275075
+	Input weight: 0.264518
+	Input weight: 0.333128
+	Input weight: 0.347005
+	Input weight: 0.307089
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.648074
+	Input weight: 0.995571
+	Input weight: 0.509590
+	Input weight: 0.351027
+	Input weight: 0.305455
+	Input weight: 0.447093
+	Input weight: 0.256455
+	Input weight: 0.307864
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.678833
+	Input weight: 0.240899
+	Input weight: 0.231052
+	Input weight: 0.130680
+	Input weight: 0.520614
+	Input weight: 0.353260
+	Input weight: 0.304038
+	Input weight: 0.110185
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.941375
+	Input weight: 0.273506
+	Input weight: 0.132978
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.388034
+	Input weight: 0.130938
+	Input weight: 0.417787
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.111588
+	Input weight: 0.604799
+	Input weight: 0.472773
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.504142
+	Input weight: 0.358325
+	Input weight: 0.295053
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.293520
+	Input weight: 0.157217
+	Input weight: 0.062400
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.737274
+	Input weight: 0.506597
+	Input weight: 0.344881
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.311336
+	Input weight: 0.386570
+	Input weight: 0.452398
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.342190
+	Input weight: 0.053645
+	Input weight: 0.376793
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.846479
+	Input weight: 0.364510
+	Input weight: 0.017703
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.260450
+	Input weight: 0.240129
+	Input weight: 0.414056
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.725029
+	Input weight: 0.751520
+	Input weight: 0.457548
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.107530
+	Input weight: 0.255206
+	Input weight: 0.757244
+	Input weight: 0.275075
+	Input weight: 0.264518
+	Input weight: 0.333128
+	Input weight: 0.347005
+	Input weight: 0.307089
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.648074
+	Input weight: 0.995571
+	Input weight: 0.509590
+	Input weight: 0.351027
+	Input weight: 0.305455
+	Input weight: 0.447093
+	Input weight: 0.256455
+	Input weight: 0.307864
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.678833
+	Input weight: 0.240899
+	Input weight: 0.231052
+	Input weight: 0.130680
+	Input weight: 0.520614
+	Input weight: 0.353260
+	Input weight: 0.304038
+	Input weight: 0.110185
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.896622
+	Input weight: 0.262988
+	Input weight: 0.132166
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.364733
+	Input weight: 0.131001
+	Input weight: 0.389066
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.110060
+	Input weight: 0.513540
+	Input weight: 0.413937
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.504142
+	Input weight: 0.358325
+	Input weight: 0.295053
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.293520
+	Input weight: 0.157217
+	Input weight: 0.062400
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.737274
+	Input weight: 0.506597
+	Input weight: 0.344881
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.311336
+	Input weight: 0.386570
+	Input weight: 0.452398
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.342190
+	Input weight: 0.053645
+	Input weight: 0.376793
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.846479
+	Input weight: 0.364510
+	Input weight: 0.017703
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.260450
+	Input weight: 0.240129
+	Input weight: 0.414056
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.725029
+	Input weight: 0.751520
+	Input weight: 0.457548
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.105702
+	Input weight: 0.239451
+	Input weight: 0.642149
+	Input weight: 0.256169
+	Input weight: 0.247325
+	Input weight: 0.303325
+	Input weight: 0.314250
+	Input weight: 0.282476
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.537249
+	Input weight: 0.990755
+	Input weight: 0.431740
+	Input weight: 0.314823
+	Input weight: 0.279069
+	Input weight: 0.386438
+	Input weight: 0.238940
+	Input weight: 0.280995
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.565288
+	Input weight: 0.226394
+	Input weight: 0.217940
+	Input weight: 0.127428
+	Input weight: 0.441487
+	Input weight: 0.317617
+	Input weight: 0.278793
+	Input weight: 0.108040
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.896622
+	Input weight: 0.262988
+	Input weight: 0.132166
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.364733
+	Input weight: 0.131001
+	Input weight: 0.389066
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.110060
+	Input weight: 0.513540
+	Input weight: 0.413937
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.504142
+	Input weight: 0.358325
+	Input weight: 0.295053
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.293520
+	Input weight: 0.157217
+	Input weight: 0.062400
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.737274
+	Input weight: 0.506597
+	Input weight: 0.344881
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.311336
+	Input weight: 0.386570
+	Input weight: 0.452398
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.342190
+	Input weight: 0.053645
+	Input weight: 0.376793
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.846479
+	Input weight: 0.364510
+	Input weight: 0.017703
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.260450
+	Input weight: 0.240129
+	Input weight: 0.414056
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.725029
+	Input weight: 0.751520
+	Input weight: 0.457548
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.105702
+	Input weight: 0.239451
+	Input weight: 0.642149
+	Input weight: 0.256169
+	Input weight: 0.247325
+	Input weight: 0.303325
+	Input weight: 0.314250
+	Input weight: 0.282476
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.537249
+	Input weight: 0.990755
+	Input weight: 0.431740
+	Input weight: 0.314823
+	Input weight: 0.279069
+	Input weight: 0.386438
+	Input weight: 0.238940
+	Input weight: 0.280995
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.565288
+	Input weight: 0.226394
+	Input weight: 0.217940
+	Input weight: 0.127428
+	Input weight: 0.441487
+	Input weight: 0.317617
+	Input weight: 0.278793
+	Input weight: 0.108040
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.896622
+	Input weight: 0.262988
+	Input weight: 0.132166
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.364733
+	Input weight: 0.131001
+	Input weight: 0.389066
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.110060
+	Input weight: 0.513540
+	Input weight: 0.413937
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.566633
+	Input weight: 0.411191
+	Input weight: 0.338316
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.275654
+	Input weight: 0.153942
+	Input weight: 0.062172
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.774794
+	Input weight: 0.569075
+	Input weight: 0.395929
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.290554
+	Input weight: 0.351134
+	Input weight: 0.401696
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.315832
+	Input weight: 0.053499
+	Input weight: 0.343455
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.863366
+	Input weight: 0.418168
+	Input weight: 0.018005
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.247384
+	Input weight: 0.229608
+	Input weight: 0.372461
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.620231
+	Input weight: 0.646054
+	Input weight: 0.405588
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.105702
+	Input weight: 0.239451
+	Input weight: 0.642149
+	Input weight: 0.256169
+	Input weight: 0.247325
+	Input weight: 0.303325
+	Input weight: 0.314250
+	Input weight: 0.282476
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.537249
+	Input weight: 0.990755
+	Input weight: 0.431740
+	Input weight: 0.314823
+	Input weight: 0.279069
+	Input weight: 0.386438
+	Input weight: 0.238940
+	Input weight: 0.280995
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.565288
+	Input weight: 0.226394
+	Input weight: 0.217940
+	Input weight: 0.127428
+	Input weight: 0.441487
+	Input weight: 0.317617
+	Input weight: 0.278793
+	Input weight: 0.108040
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.816622
+	Input weight: 0.246220
+	Input weight: 0.129162
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.335106
+	Input weight: 0.129258
+	Input weight: 0.354395
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.107977
+	Input weight: 0.436982
+	Input weight: 0.364015
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.566633
+	Input weight: 0.411191
+	Input weight: 0.338316
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.275654
+	Input weight: 0.153942
+	Input weight: 0.062172
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.774794
+	Input weight: 0.569075
+	Input weight: 0.395929
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.290554
+	Input weight: 0.351134
+	Input weight: 0.401696
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.315832
+	Input weight: 0.053499
+	Input weight: 0.343455
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.863366
+	Input weight: 0.418168
+	Input weight: 0.018005
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.247384
+	Input weight: 0.229608
+	Input weight: 0.372461
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.620231
+	Input weight: 0.646054
+	Input weight: 0.405588
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.103529
+	Input weight: 0.224138
+	Input weight: 0.530908
+	Input weight: 0.238212
+	Input weight: 0.230795
+	Input weight: 0.276722
+	Input weight: 0.285404
+	Input weight: 0.259907
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.452792
+	Input weight: 0.980901
+	Input weight: 0.375939
+	Input weight: 0.286987
+	Input weight: 0.258063
+	Input weight: 0.342320
+	Input weight: 0.224427
+	Input weight: 0.259646
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.474594
+	Input weight: 0.213944
+	Input weight: 0.206590
+	Input weight: 0.124382
+	Input weight: 0.383891
+	Input weight: 0.289722
+	Input weight: 0.258255
+	Input weight: 0.106003
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.816622
+	Input weight: 0.246220
+	Input weight: 0.129162
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.335106
+	Input weight: 0.129258
+	Input weight: 0.354395
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.107977
+	Input weight: 0.436982
+	Input weight: 0.364015
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.566633
+	Input weight: 0.411191
+	Input weight: 0.338316
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.275654
+	Input weight: 0.153942
+	Input weight: 0.062172
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.774794
+	Input weight: 0.569075
+	Input weight: 0.395929
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.290554
+	Input weight: 0.351134
+	Input weight: 0.401696
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.315832
+	Input weight: 0.053499
+	Input weight: 0.343455
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.863366
+	Input weight: 0.418168
+	Input weight: 0.018005
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.247384
+	Input weight: 0.229608
+	Input weight: 0.372461
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.620231
+	Input weight: 0.646054
+	Input weight: 0.405588
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.103529
+	Input weight: 0.224138
+	Input weight: 0.530908
+	Input weight: 0.238212
+	Input weight: 0.230795
+	Input weight: 0.276722
+	Input weight: 0.285404
+	Input weight: 0.259907
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.452792
+	Input weight: 0.980901
+	Input weight: 0.375939
+	Input weight: 0.286987
+	Input weight: 0.258063
+	Input weight: 0.342320
+	Input weight: 0.224427
+	Input weight: 0.259646
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.474594
+	Input weight: 0.213944
+	Input weight: 0.206590
+	Input weight: 0.124382
+	Input weight: 0.383891
+	Input weight: 0.289722
+	Input weight: 0.258255
+	Input weight: 0.106003
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.816622
+	Input weight: 0.246220
+	Input weight: 0.129162
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.335106
+	Input weight: 0.129258
+	Input weight: 0.354395
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.107977
+	Input weight: 0.436982
+	Input weight: 0.364015
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.626933
+	Input weight: 0.469810
+	Input weight: 0.388428
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.260482
+	Input weight: 0.150855
+	Input weight: 0.061947
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.805240
+	Input weight: 0.629212
+	Input weight: 0.453131
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.333045
+	Input weight: 0.403045
+	Input weight: 0.459457
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.362524
+	Input weight: 0.056063
+	Input weight: 0.394302
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.877282
+	Input weight: 0.477365
+	Input weight: 0.018318
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.235989
+	Input weight: 0.220282
+	Input weight: 0.340036
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.675712
+	Input weight: 0.698343
+	Input weight: 0.463710
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.103529
+	Input weight: 0.224138
+	Input weight: 0.530908
+	Input weight: 0.238212
+	Input weight: 0.230795
+	Input weight: 0.276722
+	Input weight: 0.285404
+	Input weight: 0.259907
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.452792
+	Input weight: 0.980901
+	Input weight: 0.375939
+	Input weight: 0.286987
+	Input weight: 0.258063
+	Input weight: 0.342320
+	Input weight: 0.224427
+	Input weight: 0.259646
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.474594
+	Input weight: 0.213944
+	Input weight: 0.206590
+	Input weight: 0.124382
+	Input weight: 0.383891
+	Input weight: 0.289722
+	Input weight: 0.258255
+	Input weight: 0.106003
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.743998
+	Input weight: 0.245148
+	Input weight: 0.130522
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.330417
+	Input weight: 0.131339
+	Input weight: 0.347739
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.109367
+	Input weight: 0.415988
+	Input weight: 0.353708
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.626933
+	Input weight: 0.469810
+	Input weight: 0.388428
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.260482
+	Input weight: 0.150855
+	Input weight: 0.061947
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.805240
+	Input weight: 0.629212
+	Input weight: 0.453131
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.333045
+	Input weight: 0.403045
+	Input weight: 0.459457
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.362524
+	Input weight: 0.056063
+	Input weight: 0.394302
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.877282
+	Input weight: 0.477365
+	Input weight: 0.018318
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.235989
+	Input weight: 0.220282
+	Input weight: 0.340036
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.675712
+	Input weight: 0.698343
+	Input weight: 0.463710
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.101805
+	Input weight: 0.212442
+	Input weight: 0.450673
+	Input weight: 0.224633
+	Input weight: 0.218228
+	Input weight: 0.257191
+	Input weight: 0.264372
+	Input weight: 0.243118
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.399752
+	Input weight: 0.962508
+	Input weight: 0.341019
+	Input weight: 0.268960
+	Input weight: 0.244325
+	Input weight: 0.314397
+	Input weight: 0.214879
+	Input weight: 0.245689
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.416583
+	Input weight: 0.205685
+	Input weight: 0.199066
+	Input weight: 0.122485
+	Input weight: 0.347618
+	Input weight: 0.271519
+	Input weight: 0.244707
+	Input weight: 0.104782
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.743998
+	Input weight: 0.245148
+	Input weight: 0.130522
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.330417
+	Input weight: 0.131339
+	Input weight: 0.347739
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.109367
+	Input weight: 0.415988
+	Input weight: 0.353708
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.626933
+	Input weight: 0.469810
+	Input weight: 0.388428
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.260482
+	Input weight: 0.150855
+	Input weight: 0.061947
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.805240
+	Input weight: 0.629212
+	Input weight: 0.453131
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.333045
+	Input weight: 0.403045
+	Input weight: 0.459457
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.362524
+	Input weight: 0.056063
+	Input weight: 0.394302
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.877282
+	Input weight: 0.477365
+	Input weight: 0.018318
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.235989
+	Input weight: 0.220282
+	Input weight: 0.340036
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.675712
+	Input weight: 0.698343
+	Input weight: 0.463710
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.101805
+	Input weight: 0.212442
+	Input weight: 0.450673
+	Input weight: 0.224633
+	Input weight: 0.218228
+	Input weight: 0.257191
+	Input weight: 0.264372
+	Input weight: 0.243118
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.399752
+	Input weight: 0.962508
+	Input weight: 0.341019
+	Input weight: 0.268960
+	Input weight: 0.244325
+	Input weight: 0.314397
+	Input weight: 0.214879
+	Input weight: 0.245689
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.416583
+	Input weight: 0.205685
+	Input weight: 0.199066
+	Input weight: 0.122485
+	Input weight: 0.347618
+	Input weight: 0.271519
+	Input weight: 0.244707
+	Input weight: 0.104782
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.743998
+	Input weight: 0.245148
+	Input weight: 0.130522
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.330417
+	Input weight: 0.131339
+	Input weight: 0.347739
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.109367
+	Input weight: 0.415988
+	Input weight: 0.353708
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.681637
+	Input weight: 0.531855
+	Input weight: 0.444859
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.247412
+	Input weight: 0.147940
+	Input weight: 0.061724
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.829835
+	Input weight: 0.683643
+	Input weight: 0.514537
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.308407
+	Input weight: 0.363960
+	Input weight: 0.407029
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.332152
+	Input weight: 0.055897
+	Input weight: 0.357171
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.888872
+	Input weight: 0.539609
+	Input weight: 0.018641
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.225948
+	Input weight: 0.211948
+	Input weight: 0.314089
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.723728
+	Input weight: 0.742721
+	Input weight: 0.525554
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.101805
+	Input weight: 0.212442
+	Input weight: 0.450673
+	Input weight: 0.224633
+	Input weight: 0.218228
+	Input weight: 0.257191
+	Input weight: 0.264372
+	Input weight: 0.243118
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.399752
+	Input weight: 0.962508
+	Input weight: 0.341019
+	Input weight: 0.268960
+	Input weight: 0.244325
+	Input weight: 0.314397
+	Input weight: 0.214879
+	Input weight: 0.245689
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.416583
+	Input weight: 0.205685
+	Input weight: 0.199066
+	Input weight: 0.122485
+	Input weight: 0.347618
+	Input weight: 0.271519
+	Input weight: 0.244707
+	Input weight: 0.104782
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.647183
+	Input weight: 0.236784
+	Input weight: 0.129489
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.318880
+	Input weight: 0.131958
+	Input weight: 0.333925
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.108887
+	Input weight: 0.380444
+	Input weight: 0.330305
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.681637
+	Input weight: 0.531855
+	Input weight: 0.444859
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.247412
+	Input weight: 0.147940
+	Input weight: 0.061724
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.829835
+	Input weight: 0.683643
+	Input weight: 0.514537
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.308407
+	Input weight: 0.363960
+	Input weight: 0.407029
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.332152
+	Input weight: 0.055897
+	Input weight: 0.357171
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.888872
+	Input weight: 0.539609
+	Input weight: 0.018641
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.225948
+	Input weight: 0.211948
+	Input weight: 0.314089
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.723728
+	Input weight: 0.742721
+	Input weight: 0.525554
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.099844
+	Input weight: 0.201023
+	Input weight: 0.388248
+	Input weight: 0.211586
+	Input weight: 0.206051
+	Input weight: 0.239207
+	Input weight: 0.245184
+	Input weight: 0.227373
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.357255
+	Input weight: 0.927574
+	Input weight: 0.311567
+	Input weight: 0.252447
+	Input weight: 0.231350
+	Input weight: 0.290157
+	Input weight: 0.205520
+	Input weight: 0.232531
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.370533
+	Input weight: 0.197488
+	Input weight: 0.191534
+	Input weight: 0.120369
+	Input weight: 0.317199
+	Input weight: 0.254883
+	Input weight: 0.231909
+	Input weight: 0.103376
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.647183
+	Input weight: 0.236784
+	Input weight: 0.129489
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.318880
+	Input weight: 0.131958
+	Input weight: 0.333925
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.108887
+	Input weight: 0.380444
+	Input weight: 0.330305
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.681637
+	Input weight: 0.531855
+	Input weight: 0.444859
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.247412
+	Input weight: 0.147940
+	Input weight: 0.061724
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.829835
+	Input weight: 0.683643
+	Input weight: 0.514537
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.308407
+	Input weight: 0.363960
+	Input weight: 0.407029
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.332152
+	Input weight: 0.055897
+	Input weight: 0.357171
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.888872
+	Input weight: 0.539609
+	Input weight: 0.018641
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.225948
+	Input weight: 0.211948
+	Input weight: 0.314089
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.723728
+	Input weight: 0.742721
+	Input weight: 0.525554
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.099844
+	Input weight: 0.201023
+	Input weight: 0.388248
+	Input weight: 0.211586
+	Input weight: 0.206051
+	Input weight: 0.239207
+	Input weight: 0.245184
+	Input weight: 0.227373
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.357255
+	Input weight: 0.927574
+	Input weight: 0.311567
+	Input weight: 0.252447
+	Input weight: 0.231350
+	Input weight: 0.290157
+	Input weight: 0.205520
+	Input weight: 0.232531
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.370533
+	Input weight: 0.197488
+	Input weight: 0.191534
+	Input weight: 0.120369
+	Input weight: 0.317199
+	Input weight: 0.254883
+	Input weight: 0.231909
+	Input weight: 0.103376
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.647183
+	Input weight: 0.236784
+	Input weight: 0.129489
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.318880
+	Input weight: 0.131958
+	Input weight: 0.333925
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.108887
+	Input weight: 0.380444
+	Input weight: 0.330305
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.580809
+	Input weight: 0.461425
+	Input weight: 0.395986
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.236014
+	Input weight: 0.145181
+	Input weight: 0.061503
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.849775
+	Input weight: 0.730418
+	Input weight: 0.576932
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.353900
+	Input weight: 0.417549
+	Input weight: 0.465282
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.381359
+	Input weight: 0.058682
+	Input weight: 0.409887
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.898629
+	Input weight: 0.601327
+	Input weight: 0.018976
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.217019
+	Input weight: 0.204445
+	Input weight: 0.292835
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.619000
+	Input weight: 0.637311
+	Input weight: 0.456682
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.099844
+	Input weight: 0.201023
+	Input weight: 0.388248
+	Input weight: 0.211586
+	Input weight: 0.206051
+	Input weight: 0.239207
+	Input weight: 0.245184
+	Input weight: 0.227373
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.357255
+	Input weight: 0.927574
+	Input weight: 0.311567
+	Input weight: 0.252447
+	Input weight: 0.231350
+	Input weight: 0.290157
+	Input weight: 0.205520
+	Input weight: 0.232531
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.370533
+	Input weight: 0.197488
+	Input weight: 0.191534
+	Input weight: 0.120369
+	Input weight: 0.317199
+	Input weight: 0.254883
+	Input weight: 0.231909
+	Input weight: 0.103376
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.536548
+	Input weight: 0.222309
+	Input weight: 0.126117
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.295324
+	Input weight: 0.129642
+	Input weight: 0.307547
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.108101
+	Input weight: 0.349420
+	Input weight: 0.308690
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.580809
+	Input weight: 0.461425
+	Input weight: 0.395986
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.236014
+	Input weight: 0.145181
+	Input weight: 0.061503
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.849775
+	Input weight: 0.730418
+	Input weight: 0.576932
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.353900
+	Input weight: 0.417549
+	Input weight: 0.465282
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.381359
+	Input weight: 0.058682
+	Input weight: 0.409887
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.898629
+	Input weight: 0.601327
+	Input weight: 0.018976
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.217019
+	Input weight: 0.204445
+	Input weight: 0.292835
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.619000
+	Input weight: 0.637311
+	Input weight: 0.456682
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.097737
+	Input weight: 0.190174
+	Input weight: 0.340000
+	Input weight: 0.199354
+	Input weight: 0.194555
+	Input weight: 0.222917
+	Input weight: 0.227933
+	Input weight: 0.212899
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.324026
+	Input weight: 0.866793
+	Input weight: 0.287550
+	Input weight: 0.238142
+	Input weight: 0.219865
+	Input weight: 0.269959
+	Input weight: 0.197019
+	Input weight: 0.220897
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.334071
+	Input weight: 0.189699
+	Input weight: 0.184330
+	Input weight: 0.118181
+	Input weight: 0.291879
+	Input weight: 0.240058
+	Input weight: 0.220207
+	Input weight: 0.101893
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.536548
+	Input weight: 0.222309
+	Input weight: 0.126117
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.295324
+	Input weight: 0.129642
+	Input weight: 0.307547
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.108101
+	Input weight: 0.349420
+	Input weight: 0.308690
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.580809
+	Input weight: 0.461425
+	Input weight: 0.395986
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.236014
+	Input weight: 0.145181
+	Input weight: 0.061503
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.849775
+	Input weight: 0.730418
+	Input weight: 0.576932
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.353900
+	Input weight: 0.417549
+	Input weight: 0.465282
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.381359
+	Input weight: 0.058682
+	Input weight: 0.409887
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.898629
+	Input weight: 0.601327
+	Input weight: 0.018976
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.217019
+	Input weight: 0.204445
+	Input weight: 0.292835
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.619000
+	Input weight: 0.637311
+	Input weight: 0.456682
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.097737
+	Input weight: 0.190174
+	Input weight: 0.340000
+	Input weight: 0.199354
+	Input weight: 0.194555
+	Input weight: 0.222917
+	Input weight: 0.227933
+	Input weight: 0.212899
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.324026
+	Input weight: 0.866793
+	Input weight: 0.287550
+	Input weight: 0.238142
+	Input weight: 0.219865
+	Input weight: 0.269959
+	Input weight: 0.197019
+	Input weight: 0.220897
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.334071
+	Input weight: 0.189699
+	Input weight: 0.184330
+	Input weight: 0.118181
+	Input weight: 0.291879
+	Input weight: 0.240058
+	Input weight: 0.220207
+	Input weight: 0.101893
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.536548
+	Input weight: 0.222309
+	Input weight: 0.126117
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.295324
+	Input weight: 0.129642
+	Input weight: 0.307547
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.108101
+	Input weight: 0.349420
+	Input weight: 0.308690
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.640086
+	Input weight: 0.523183
+	Input weight: 0.453193
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.225970
+	Input weight: 0.142565
+	Input weight: 0.061285
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.866071
+	Input weight: 0.769191
+	Input weight: 0.636507
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.325262
+	Input weight: 0.375148
+	Input weight: 0.411421
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.347047
+	Input weight: 0.058491
+	Input weight: 0.369249
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.906928
+	Input weight: 0.658799
+	Input weight: 0.019323
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.209017
+	Input weight: 0.197646
+	Input weight: 0.275078
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.674620
+	Input weight: 0.690739
+	Input weight: 0.518248
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.097737
+	Input weight: 0.190174
+	Input weight: 0.340000
+	Input weight: 0.199354
+	Input weight: 0.194555
+	Input weight: 0.222917
+	Input weight: 0.227933
+	Input weight: 0.212899
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.324026
+	Input weight: 0.866793
+	Input weight: 0.287550
+	Input weight: 0.238142
+	Input weight: 0.219865
+	Input weight: 0.269959
+	Input weight: 0.197019
+	Input weight: 0.220897
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.334071
+	Input weight: 0.189699
+	Input weight: 0.184330
+	Input weight: 0.118181
+	Input weight: 0.291879
+	Input weight: 0.240058
+	Input weight: 0.220207
+	Input weight: 0.101893
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.472766
+	Input weight: 0.216013
+	Input weight: 0.125178
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.286972
+	Input weight: 0.130078
+	Input weight: 0.297845
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.107664
+	Input weight: 0.326925
+	Input weight: 0.292718
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.640086
+	Input weight: 0.523183
+	Input weight: 0.453193
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.225970
+	Input weight: 0.142565
+	Input weight: 0.061285
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.866071
+	Input weight: 0.769191
+	Input weight: 0.636507
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.325262
+	Input weight: 0.375148
+	Input weight: 0.411421
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.347047
+	Input weight: 0.058491
+	Input weight: 0.369249
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.906928
+	Input weight: 0.658799
+	Input weight: 0.019323
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.209017
+	Input weight: 0.197646
+	Input weight: 0.275078
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.674620
+	Input weight: 0.690739
+	Input weight: 0.518248
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.096269
+	Input weight: 0.182479
+	Input weight: 0.308522
+	Input weight: 0.190701
+	Input weight: 0.186411
+	Input weight: 0.211507
+	Input weight: 0.215880
+	Input weight: 0.202715
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.299016
+	Input weight: 0.777204
+	Input weight: 0.268940
+	Input weight: 0.226628
+	Input weight: 0.210504
+	Input weight: 0.254088
+	Input weight: 0.189994
+	Input weight: 0.211421
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.307265
+	Input weight: 0.183392
+	Input weight: 0.178484
+	Input weight: 0.116397
+	Input weight: 0.272665
+	Input weight: 0.228380
+	Input weight: 0.210874
+	Input weight: 0.100695
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.472766
+	Input weight: 0.216013
+	Input weight: 0.125178
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.286972
+	Input weight: 0.130078
+	Input weight: 0.297845
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.107664
+	Input weight: 0.326925
+	Input weight: 0.292718
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.640086
+	Input weight: 0.523183
+	Input weight: 0.453193
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.225970
+	Input weight: 0.142565
+	Input weight: 0.061285
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.866071
+	Input weight: 0.769191
+	Input weight: 0.636507
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.325262
+	Input weight: 0.375148
+	Input weight: 0.411421
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.347047
+	Input weight: 0.058491
+	Input weight: 0.369249
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.906928
+	Input weight: 0.658799
+	Input weight: 0.019323
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.209017
+	Input weight: 0.197646
+	Input weight: 0.275078
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.674620
+	Input weight: 0.690739
+	Input weight: 0.518248
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.096269
+	Input weight: 0.182479
+	Input weight: 0.308522
+	Input weight: 0.190701
+	Input weight: 0.186411
+	Input weight: 0.211507
+	Input weight: 0.215880
+	Input weight: 0.202715
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.299016
+	Input weight: 0.777204
+	Input weight: 0.268940
+	Input weight: 0.226628
+	Input weight: 0.210504
+	Input weight: 0.254088
+	Input weight: 0.189994
+	Input weight: 0.211421
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.307265
+	Input weight: 0.183392
+	Input weight: 0.178484
+	Input weight: 0.116397
+	Input weight: 0.272665
+	Input weight: 0.228380
+	Input weight: 0.210874
+	Input weight: 0.100695
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.472766
+	Input weight: 0.216013
+	Input weight: 0.125178
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.286972
+	Input weight: 0.130078
+	Input weight: 0.297845
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.107664
+	Input weight: 0.326925
+	Input weight: 0.292718
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.693159
+	Input weight: 0.585415
+	Input weight: 0.514603
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.217039
+	Input weight: 0.140081
+	Input weight: 0.061069
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.879526
+	Input weight: 0.800710
+	Input weight: 0.690038
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.302044
+	Input weight: 0.342158
+	Input weight: 0.370432
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.319755
+	Input weight: 0.058303
+	Input weight: 0.337494
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.914053
+	Input weight: 0.709326
+	Input weight: 0.019682
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.201794
+	Input weight: 0.191451
+	Input weight: 0.259989
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.574719
+	Input weight: 0.588817
+	Input weight: 0.451192
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.096269
+	Input weight: 0.182479
+	Input weight: 0.308522
+	Input weight: 0.190701
+	Input weight: 0.186411
+	Input weight: 0.211507
+	Input weight: 0.215880
+	Input weight: 0.202715
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.299016
+	Input weight: 0.777204
+	Input weight: 0.268940
+	Input weight: 0.226628
+	Input weight: 0.210504
+	Input weight: 0.254088
+	Input weight: 0.189994
+	Input weight: 0.211421
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.307265
+	Input weight: 0.183392
+	Input weight: 0.178484
+	Input weight: 0.116397
+	Input weight: 0.272665
+	Input weight: 0.228380
+	Input weight: 0.210874
+	Input weight: 0.100695
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.406106
+	Input weight: 0.204712
+	Input weight: 0.122188
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.270150
+	Input weight: 0.128170
+	Input weight: 0.279324
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106139
+	Input weight: 0.300543
+	Input weight: 0.272566
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.693159
+	Input weight: 0.585415
+	Input weight: 0.514603
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.217039
+	Input weight: 0.140081
+	Input weight: 0.061069
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.879526
+	Input weight: 0.800710
+	Input weight: 0.690038
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.302044
+	Input weight: 0.342158
+	Input weight: 0.370432
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.319755
+	Input weight: 0.058303
+	Input weight: 0.337494
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.914053
+	Input weight: 0.709326
+	Input weight: 0.019682
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.201794
+	Input weight: 0.191451
+	Input weight: 0.259989
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.574719
+	Input weight: 0.588817
+	Input weight: 0.451192
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.094751
+	Input weight: 0.175197
+	Input weight: 0.282621
+	Input weight: 0.182587
+	Input weight: 0.178738
+	Input weight: 0.201048
+	Input weight: 0.204884
+	Input weight: 0.193288
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.277794
+	Input weight: 0.667281
+	Input weight: 0.252626
+	Input weight: 0.216054
+	Input weight: 0.201755
+	Input weight: 0.239945
+	Input weight: 0.183281
+	Input weight: 0.202574
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.284445
+	Input weight: 0.177211
+	Input weight: 0.172722
+	Input weight: 0.114505
+	Input weight: 0.255668
+	Input weight: 0.217512
+	Input weight: 0.202012
+	Input weight: 0.099397
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.406106
+	Input weight: 0.204712
+	Input weight: 0.122188
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.270150
+	Input weight: 0.128170
+	Input weight: 0.279324
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106139
+	Input weight: 0.300543
+	Input weight: 0.272566
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.693159
+	Input weight: 0.585415
+	Input weight: 0.514603
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.217039
+	Input weight: 0.140081
+	Input weight: 0.061069
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.879526
+	Input weight: 0.800710
+	Input weight: 0.690038
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.302044
+	Input weight: 0.342158
+	Input weight: 0.370432
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.319755
+	Input weight: 0.058303
+	Input weight: 0.337494
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.914053
+	Input weight: 0.709326
+	Input weight: 0.019682
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.201794
+	Input weight: 0.191451
+	Input weight: 0.259989
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.574719
+	Input weight: 0.588817
+	Input weight: 0.451192
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.094751
+	Input weight: 0.175197
+	Input weight: 0.282621
+	Input weight: 0.182587
+	Input weight: 0.178738
+	Input weight: 0.201048
+	Input weight: 0.204884
+	Input weight: 0.193288
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.277794
+	Input weight: 0.667281
+	Input weight: 0.252626
+	Input weight: 0.216054
+	Input weight: 0.201755
+	Input weight: 0.239945
+	Input weight: 0.183281
+	Input weight: 0.202574
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.284445
+	Input weight: 0.177211
+	Input weight: 0.172722
+	Input weight: 0.114505
+	Input weight: 0.255668
+	Input weight: 0.217512
+	Input weight: 0.202012
+	Input weight: 0.099397
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.406106
+	Input weight: 0.204712
+	Input weight: 0.122188
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.270150
+	Input weight: 0.128170
+	Input weight: 0.279324
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106139
+	Input weight: 0.300543
+	Input weight: 0.272566
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.590968
+	Input weight: 0.502237
+	Input weight: 0.448455
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.209034
+	Input weight: 0.137717
+	Input weight: 0.060855
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.890753
+	Input weight: 0.826174
+	Input weight: 0.735785
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.346486
+	Input weight: 0.392821
+	Input weight: 0.424820
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.367066
+	Input weight: 0.061317
+	Input weight: 0.387487
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.920224
+	Input weight: 0.751837
+	Input weight: 0.020054
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.195235
+	Input weight: 0.185778
+	Input weight: 0.246984
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.634459
+	Input weight: 0.647435
+	Input weight: 0.512506
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.094751
+	Input weight: 0.175197
+	Input weight: 0.282621
+	Input weight: 0.182587
+	Input weight: 0.178738
+	Input weight: 0.201048
+	Input weight: 0.204884
+	Input weight: 0.193288
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.277794
+	Input weight: 0.667281
+	Input weight: 0.252626
+	Input weight: 0.216054
+	Input weight: 0.201755
+	Input weight: 0.239945
+	Input weight: 0.183281
+	Input weight: 0.202574
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.284445
+	Input weight: 0.177211
+	Input weight: 0.172722
+	Input weight: 0.114505
+	Input weight: 0.255668
+	Input weight: 0.217512
+	Input weight: 0.202012
+	Input weight: 0.099397
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.371436
+	Input weight: 0.199627
+	Input weight: 0.121270
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.260504
+	Input weight: 0.127610
+	Input weight: 0.268625
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106404
+	Input weight: 0.289923
+	Input weight: 0.264994
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.590968
+	Input weight: 0.502237
+	Input weight: 0.448455
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.209034
+	Input weight: 0.137717
+	Input weight: 0.060855
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.890753
+	Input weight: 0.826174
+	Input weight: 0.735785
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.346486
+	Input weight: 0.392821
+	Input weight: 0.424820
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.367066
+	Input weight: 0.061317
+	Input weight: 0.387487
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.920224
+	Input weight: 0.751837
+	Input weight: 0.020054
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.195235
+	Input weight: 0.185778
+	Input weight: 0.246984
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.634459
+	Input weight: 0.647435
+	Input weight: 0.512506
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.093623
+	Input weight: 0.169647
+	Input weight: 0.263902
+	Input weight: 0.176411
+	Input weight: 0.172893
+	Input weight: 0.193133
+	Input weight: 0.196576
+	Input weight: 0.186135
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.261405
+	Input weight: 0.566015
+	Input weight: 0.239801
+	Input weight: 0.207552
+	Input weight: 0.194671
+	Input weight: 0.228734
+	Input weight: 0.177807
+	Input weight: 0.195413
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.266866
+	Input weight: 0.172136
+	Input weight: 0.167986
+	Input weight: 0.112953
+	Input weight: 0.242295
+	Input weight: 0.208749
+	Input weight: 0.194809
+	Input weight: 0.098342
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.371436
+	Input weight: 0.199627
+	Input weight: 0.121270
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.260504
+	Input weight: 0.127610
+	Input weight: 0.268625
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106404
+	Input weight: 0.289923
+	Input weight: 0.264994
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.590968
+	Input weight: 0.502237
+	Input weight: 0.448455
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.209034
+	Input weight: 0.137717
+	Input weight: 0.060855
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.890753
+	Input weight: 0.826174
+	Input weight: 0.735785
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.346486
+	Input weight: 0.392821
+	Input weight: 0.424820
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.367066
+	Input weight: 0.061317
+	Input weight: 0.387487
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.920224
+	Input weight: 0.751837
+	Input weight: 0.020054
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.195235
+	Input weight: 0.185778
+	Input weight: 0.246984
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.634459
+	Input weight: 0.647435
+	Input weight: 0.512506
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.093623
+	Input weight: 0.169647
+	Input weight: 0.263902
+	Input weight: 0.176411
+	Input weight: 0.172893
+	Input weight: 0.193133
+	Input weight: 0.196576
+	Input weight: 0.186135
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.261405
+	Input weight: 0.566015
+	Input weight: 0.239801
+	Input weight: 0.207552
+	Input weight: 0.194671
+	Input weight: 0.228734
+	Input weight: 0.177807
+	Input weight: 0.195413
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.266866
+	Input weight: 0.172136
+	Input weight: 0.167986
+	Input weight: 0.112953
+	Input weight: 0.242295
+	Input weight: 0.208749
+	Input weight: 0.194809
+	Input weight: 0.098342
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.371436
+	Input weight: 0.199627
+	Input weight: 0.121270
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.260504
+	Input weight: 0.127610
+	Input weight: 0.268625
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106404
+	Input weight: 0.289923
+	Input weight: 0.264994
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.649399
+	Input weight: 0.564735
+	Input weight: 0.509634
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.201810
+	Input weight: 0.135465
+	Input weight: 0.060643
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.900223
+	Input weight: 0.846798
+	Input weight: 0.773578
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.319302
+	Input weight: 0.356017
+	Input weight: 0.380722
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.335763
+	Input weight: 0.061101
+	Input weight: 0.351851
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.925614
+	Input weight: 0.786649
+	Input weight: 0.020440
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.189246
+	Input weight: 0.180557
+	Input weight: 0.235639
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.688246
+	Input weight: 0.699539
+	Input weight: 0.574928
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.093623
+	Input weight: 0.169647
+	Input weight: 0.263902
+	Input weight: 0.176411
+	Input weight: 0.172893
+	Input weight: 0.193133
+	Input weight: 0.196576
+	Input weight: 0.186135
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.261405
+	Input weight: 0.566015
+	Input weight: 0.239801
+	Input weight: 0.207552
+	Input weight: 0.194671
+	Input weight: 0.228734
+	Input weight: 0.177807
+	Input weight: 0.195413
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.266866
+	Input weight: 0.172136
+	Input weight: 0.167986
+	Input weight: 0.112953
+	Input weight: 0.242295
+	Input weight: 0.208749
+	Input weight: 0.194809
+	Input weight: 0.098342
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.344027
+	Input weight: 0.195026
+	Input weight: 0.120418
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.253731
+	Input weight: 0.127581
+	Input weight: 0.261074
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106041
+	Input weight: 0.276826
+	Input weight: 0.254955
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.649399
+	Input weight: 0.564735
+	Input weight: 0.509634
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.201810
+	Input weight: 0.135465
+	Input weight: 0.060643
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.900223
+	Input weight: 0.846798
+	Input weight: 0.773578
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.319302
+	Input weight: 0.356017
+	Input weight: 0.380722
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.335763
+	Input weight: 0.061101
+	Input weight: 0.351851
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.925614
+	Input weight: 0.786649
+	Input weight: 0.020440
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.189246
+	Input weight: 0.180557
+	Input weight: 0.235639
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.688246
+	Input weight: 0.699539
+	Input weight: 0.574928
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.092605
+	Input weight: 0.164767
+	Input weight: 0.248602
+	Input weight: 0.171004
+	Input weight: 0.167764
+	Input weight: 0.186281
+	Input weight: 0.189400
+	Input weight: 0.179912
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.247317
+	Input weight: 0.484853
+	Input weight: 0.228543
+	Input weight: 0.199862
+	Input weight: 0.188189
+	Input weight: 0.218788
+	Input weight: 0.172724
+	Input weight: 0.188864
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.251969
+	Input weight: 0.167461
+	Input weight: 0.163609
+	Input weight: 0.111466
+	Input weight: 0.230697
+	Input weight: 0.200915
+	Input weight: 0.188293
+	Input weight: 0.097323
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.344027
+	Input weight: 0.195026
+	Input weight: 0.120418
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.253731
+	Input weight: 0.127581
+	Input weight: 0.261074
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106041
+	Input weight: 0.276826
+	Input weight: 0.254955
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.649399
+	Input weight: 0.564735
+	Input weight: 0.509634
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.201810
+	Input weight: 0.135465
+	Input weight: 0.060643
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.900223
+	Input weight: 0.846798
+	Input weight: 0.773578
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.319302
+	Input weight: 0.356017
+	Input weight: 0.380722
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.335763
+	Input weight: 0.061101
+	Input weight: 0.351851
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.925614
+	Input weight: 0.786649
+	Input weight: 0.020440
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.189246
+	Input weight: 0.180557
+	Input weight: 0.235639
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.688246
+	Input weight: 0.699539
+	Input weight: 0.574928
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.092605
+	Input weight: 0.164767
+	Input weight: 0.248602
+	Input weight: 0.171004
+	Input weight: 0.167764
+	Input weight: 0.186281
+	Input weight: 0.189400
+	Input weight: 0.179912
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.247317
+	Input weight: 0.484853
+	Input weight: 0.228543
+	Input weight: 0.199862
+	Input weight: 0.188189
+	Input weight: 0.218788
+	Input weight: 0.172724
+	Input weight: 0.188864
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.251969
+	Input weight: 0.167461
+	Input weight: 0.163609
+	Input weight: 0.111466
+	Input weight: 0.230697
+	Input weight: 0.200915
+	Input weight: 0.188293
+	Input weight: 0.097323
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.344027
+	Input weight: 0.195026
+	Input weight: 0.120418
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.253731
+	Input weight: 0.127581
+	Input weight: 0.261074
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.106041
+	Input weight: 0.276826
+	Input weight: 0.254955
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.553382
+	Input weight: 0.486340
+	Input weight: 0.444726
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.195249
+	Input weight: 0.133316
+	Input weight: 0.060434
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.908291
+	Input weight: 0.863628
+	Input weight: 0.804257
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.366542
+	Input weight: 0.408581
+	Input weight: 0.436311
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.385503
+	Input weight: 0.064392
+	Input weight: 0.403859
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.930354
+	Input weight: 0.814816
+	Input weight: 0.020841
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.183751
+	Input weight: 0.175733
+	Input weight: 0.225638
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.586611
+	Input weight: 0.596685
+	Input weight: 0.494148
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.092605
+	Input weight: 0.164767
+	Input weight: 0.248602
+	Input weight: 0.171004
+	Input weight: 0.167764
+	Input weight: 0.186281
+	Input weight: 0.189400
+	Input weight: 0.179912
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.247317
+	Input weight: 0.484853
+	Input weight: 0.228543
+	Input weight: 0.199862
+	Input weight: 0.188189
+	Input weight: 0.218788
+	Input weight: 0.172724
+	Input weight: 0.188864
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.251969
+	Input weight: 0.167461
+	Input weight: 0.163609
+	Input weight: 0.111466
+	Input weight: 0.230697
+	Input weight: 0.200915
+	Input weight: 0.188293
+	Input weight: 0.097323
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.309561
+	Input weight: 0.185996
+	Input weight: 0.117608
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.237343
+	Input weight: 0.124529
+	Input weight: 0.243525
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.104801
+	Input weight: 0.260530
+	Input weight: 0.241773
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.553382
+	Input weight: 0.486340
+	Input weight: 0.444726
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.195249
+	Input weight: 0.133316
+	Input weight: 0.060434
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.908291
+	Input weight: 0.863628
+	Input weight: 0.804257
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.366542
+	Input weight: 0.408581
+	Input weight: 0.436311
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.385503
+	Input weight: 0.064392
+	Input weight: 0.403859
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.930354
+	Input weight: 0.814816
+	Input weight: 0.020841
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.183751
+	Input weight: 0.175733
+	Input weight: 0.225638
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.586611
+	Input weight: 0.596685
+	Input weight: 0.494148
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.091479
+	Input weight: 0.159850
+	Input weight: 0.234638
+	Input weight: 0.165596
+	Input weight: 0.162614
+	Input weight: 0.179550
+	Input weight: 0.182378
+	Input weight: 0.173754
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.234625
+	Input weight: 0.422700
+	Input weight: 0.218190
+	Input weight: 0.192567
+	Input weight: 0.181962
+	Input weight: 0.209546
+	Input weight: 0.167761
+	Input weight: 0.182579
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.238410
+	Input weight: 0.162768
+	Input weight: 0.159195
+	Input weight: 0.109865
+	Input weight: 0.219878
+	Input weight: 0.193353
+	Input weight: 0.181909
+	Input weight: 0.096204
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.309561
+	Input weight: 0.185996
+	Input weight: 0.117608
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.237343
+	Input weight: 0.124529
+	Input weight: 0.243525
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.104801
+	Input weight: 0.260530
+	Input weight: 0.241773
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.553382
+	Input weight: 0.486340
+	Input weight: 0.444726
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.195249
+	Input weight: 0.133316
+	Input weight: 0.060434
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.908291
+	Input weight: 0.863628
+	Input weight: 0.804257
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.366542
+	Input weight: 0.408581
+	Input weight: 0.436311
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.385503
+	Input weight: 0.064392
+	Input weight: 0.403859
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.930354
+	Input weight: 0.814816
+	Input weight: 0.020841
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.183751
+	Input weight: 0.175733
+	Input weight: 0.225638
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.586611
+	Input weight: 0.596685
+	Input weight: 0.494148
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.091479
+	Input weight: 0.159850
+	Input weight: 0.234638
+	Input weight: 0.165596
+	Input weight: 0.162614
+	Input weight: 0.179550
+	Input weight: 0.182378
+	Input weight: 0.173754
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.234625
+	Input weight: 0.422700
+	Input weight: 0.218190
+	Input weight: 0.192567
+	Input weight: 0.181962
+	Input weight: 0.209546
+	Input weight: 0.167761
+	Input weight: 0.182579
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.238410
+	Input weight: 0.162768
+	Input weight: 0.159195
+	Input weight: 0.109865
+	Input weight: 0.219878
+	Input weight: 0.193353
+	Input weight: 0.181909
+	Input weight: 0.096204
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.309561
+	Input weight: 0.185996
+	Input weight: 0.117608
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.237343
+	Input weight: 0.124529
+	Input weight: 0.243525
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.104801
+	Input weight: 0.260530
+	Input weight: 0.241773
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.614466
+	Input weight: 0.548747
+	Input weight: 0.505708
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.189259
+	Input weight: 0.131262
+	Input weight: 0.060226
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.915229
+	Input weight: 0.877499
+	Input weight: 0.829041
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.335347
+	Input weight: 0.368241
+	Input weight: 0.389491
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.350298
+	Input weight: 0.064142
+	Input weight: 0.364591
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.934553
+	Input weight: 0.837584
+	Input weight: 0.021257
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.178687
+	Input weight: 0.171260
+	Input weight: 0.216742
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.645417
+	Input weight: 0.654598
+	Input weight: 0.556631
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.091479
+	Input weight: 0.159850
+	Input weight: 0.234638
+	Input weight: 0.165596
+	Input weight: 0.162614
+	Input weight: 0.179550
+	Input weight: 0.182378
+	Input weight: 0.173754
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.234625
+	Input weight: 0.422700
+	Input weight: 0.218190
+	Input weight: 0.192567
+	Input weight: 0.181962
+	Input weight: 0.209546
+	Input weight: 0.167761
+	Input weight: 0.182579
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.238410
+	Input weight: 0.162768
+	Input weight: 0.159195
+	Input weight: 0.109865
+	Input weight: 0.219878
+	Input weight: 0.193353
+	Input weight: 0.181909
+	Input weight: 0.096204
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.292624
+	Input weight: 0.182267
+	Input weight: 0.116827
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.231866
+	Input weight: 0.124329
+	Input weight: 0.237527
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.104297
+	Input weight: 0.250138
+	Input weight: 0.233428
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.614466
+	Input weight: 0.548747
+	Input weight: 0.505708
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.189259
+	Input weight: 0.131262
+	Input weight: 0.060226
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.915229
+	Input weight: 0.877499
+	Input weight: 0.829041
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.335347
+	Input weight: 0.368241
+	Input weight: 0.389491
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.350298
+	Input weight: 0.064142
+	Input weight: 0.364591
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.934553
+	Input weight: 0.837584
+	Input weight: 0.021257
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.178687
+	Input weight: 0.171260
+	Input weight: 0.216742
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.645417
+	Input weight: 0.654598
+	Input weight: 0.556631
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.090609
+	Input weight: 0.155926
+	Input weight: 0.223786
+	Input weight: 0.161282
+	Input weight: 0.158506
+	Input weight: 0.174194
+	Input weight: 0.176795
+	Input weight: 0.168848
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.224136
+	Input weight: 0.377621
+	Input weight: 0.209536
+	Input weight: 0.186373
+	Input weight: 0.176646
+	Input weight: 0.201775
+	Input weight: 0.163496
+	Input weight: 0.177213
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.227435
+	Input weight: 0.158822
+	Input weight: 0.155480
+	Input weight: 0.108522
+	Input weight: 0.211015
+	Input weight: 0.187066
+	Input weight: 0.176575
+	Input weight: 0.095273
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.292624
+	Input weight: 0.182267
+	Input weight: 0.116827
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.231866
+	Input weight: 0.124329
+	Input weight: 0.237527
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.104297
+	Input weight: 0.250138
+	Input weight: 0.233428
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.614466
+	Input weight: 0.548747
+	Input weight: 0.505708
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.189259
+	Input weight: 0.131262
+	Input weight: 0.060226
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.915229
+	Input weight: 0.877499
+	Input weight: 0.829041
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.335347
+	Input weight: 0.368241
+	Input weight: 0.389491
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.350298
+	Input weight: 0.064142
+	Input weight: 0.364591
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.934553
+	Input weight: 0.837584
+	Input weight: 0.021257
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.178687
+	Input weight: 0.171260
+	Input weight: 0.216742
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.645417
+	Input weight: 0.654598
+	Input weight: 0.556631
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.090609
+	Input weight: 0.155926
+	Input weight: 0.223786
+	Input weight: 0.161282
+	Input weight: 0.158506
+	Input weight: 0.174194
+	Input weight: 0.176795
+	Input weight: 0.168848
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.224136
+	Input weight: 0.377621
+	Input weight: 0.209536
+	Input weight: 0.186373
+	Input weight: 0.176646
+	Input weight: 0.201775
+	Input weight: 0.163496
+	Input weight: 0.177213
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.227435
+	Input weight: 0.158822
+	Input weight: 0.155480
+	Input weight: 0.108522
+	Input weight: 0.211015
+	Input weight: 0.187066
+	Input weight: 0.176575
+	Input weight: 0.095273
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.292624
+	Input weight: 0.182267
+	Input weight: 0.116827
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.231866
+	Input weight: 0.124329
+	Input weight: 0.237527
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.104297
+	Input weight: 0.250138
+	Input weight: 0.233428
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.525021
+	Input weight: 0.474181
+	Input weight: 0.441781
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.183763
+	Input weight: 0.129297
+	Input weight: 0.060021
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.921249
+	Input weight: 0.889054
+	Input weight: 0.849129
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.310281
+	Input weight: 0.336695
+	Input weight: 0.353418
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.322371
+	Input weight: 0.063895
+	Input weight: 0.333797
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.938294
+	Input weight: 0.856090
+	Input weight: 0.021690
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.174001
+	Input weight: 0.167097
+	Input weight: 0.208767
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.550085
+	Input weight: 0.557715
+	Input weight: 0.480165
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.090609
+	Input weight: 0.155926
+	Input weight: 0.223786
+	Input weight: 0.161282
+	Input weight: 0.158506
+	Input weight: 0.174194
+	Input weight: 0.176795
+	Input weight: 0.168848
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.224136
+	Input weight: 0.377621
+	Input weight: 0.209536
+	Input weight: 0.186373
+	Input weight: 0.176646
+	Input weight: 0.201775
+	Input weight: 0.163496
+	Input weight: 0.177213
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.227435
+	Input weight: 0.158822
+	Input weight: 0.155480
+	Input weight: 0.108522
+	Input weight: 0.211015
+	Input weight: 0.187066
+	Input weight: 0.176575
+	Input weight: 0.095273
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.260471
+	Input weight: 0.170844
+	Input weight: 0.112547
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.214886
+	Input weight: 0.120219
+	Input weight: 0.219596
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.101381
+	Input weight: 0.229256
+	Input weight: 0.215536
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.525021
+	Input weight: 0.474181
+	Input weight: 0.441781
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.183763
+	Input weight: 0.129297
+	Input weight: 0.060021
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.921249
+	Input weight: 0.889054
+	Input weight: 0.849129
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.310281
+	Input weight: 0.336695
+	Input weight: 0.353418
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.322371
+	Input weight: 0.063895
+	Input weight: 0.333797
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.938294
+	Input weight: 0.856090
+	Input weight: 0.021690
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.174001
+	Input weight: 0.167097
+	Input weight: 0.208767
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.550085
+	Input weight: 0.557715
+	Input weight: 0.480165
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.089544
+	Input weight: 0.151658
+	Input weight: 0.213063
+	Input weight: 0.156628
+	Input weight: 0.154054
+	Input weight: 0.168525
+	Input weight: 0.170907
+	Input weight: 0.163613
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.213981
+	Input weight: 0.340876
+	Input weight: 0.201001
+	Input weight: 0.180076
+	Input weight: 0.171172
+	Input weight: 0.194035
+	Input weight: 0.159026
+	Input weight: 0.171693
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.216744
+	Input weight: 0.154601
+	Input weight: 0.151488
+	Input weight: 0.106962
+	Input weight: 0.202193
+	Input weight: 0.180603
+	Input weight: 0.171012
+	Input weight: 0.094161
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.260471
+	Input weight: 0.170844
+	Input weight: 0.112547
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.214886
+	Input weight: 0.120219
+	Input weight: 0.219596
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.101381
+	Input weight: 0.229256
+	Input weight: 0.215536
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.525021
+	Input weight: 0.474181
+	Input weight: 0.441781
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.183763
+	Input weight: 0.129297
+	Input weight: 0.060021
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.921249
+	Input weight: 0.889054
+	Input weight: 0.849129
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.310281
+	Input weight: 0.336695
+	Input weight: 0.353418
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.322371
+	Input weight: 0.063895
+	Input weight: 0.333797
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.938294
+	Input weight: 0.856090
+	Input weight: 0.021690
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.174001
+	Input weight: 0.167097
+	Input weight: 0.208767
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.550085
+	Input weight: 0.557715
+	Input weight: 0.480165
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.089544
+	Input weight: 0.151658
+	Input weight: 0.213063
+	Input weight: 0.156628
+	Input weight: 0.154054
+	Input weight: 0.168525
+	Input weight: 0.170907
+	Input weight: 0.163613
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.213981
+	Input weight: 0.340876
+	Input weight: 0.201001
+	Input weight: 0.180076
+	Input weight: 0.171172
+	Input weight: 0.194035
+	Input weight: 0.159026
+	Input weight: 0.171693
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.216744
+	Input weight: 0.154601
+	Input weight: 0.151488
+	Input weight: 0.106962
+	Input weight: 0.202193
+	Input weight: 0.180603
+	Input weight: 0.171012
+	Input weight: 0.094161
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.260471
+	Input weight: 0.170844
+	Input weight: 0.112547
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.214886
+	Input weight: 0.120219
+	Input weight: 0.219596
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.101381
+	Input weight: 0.229256
+	Input weight: 0.215536
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.587208
+	Input weight: 0.536349
+	Input weight: 0.502598
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.178698
+	Input weight: 0.127415
+	Input weight: 0.059818
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.926512
+	Input weight: 0.898783
+	Input weight: 0.865541
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.356080
+	Input weight: 0.386572
+	Input weight: 0.405637
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.370091
+	Input weight: 0.067473
+	Input weight: 0.383248
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.941646
+	Input weight: 0.871269
+	Input weight: 0.022141
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.169649
+	Input weight: 0.163211
+	Input weight: 0.201568
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.611337
+	Input weight: 0.618560
+	Input weight: 0.542469
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.089544
+	Input weight: 0.151658
+	Input weight: 0.213063
+	Input weight: 0.156628
+	Input weight: 0.154054
+	Input weight: 0.168525
+	Input weight: 0.170907
+	Input weight: 0.163613
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.213981
+	Input weight: 0.340876
+	Input weight: 0.201001
+	Input weight: 0.180076
+	Input weight: 0.171172
+	Input weight: 0.194035
+	Input weight: 0.159026
+	Input weight: 0.171693
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.216744
+	Input weight: 0.154601
+	Input weight: 0.151488
+	Input weight: 0.106962
+	Input weight: 0.202193
+	Input weight: 0.180603
+	Input weight: 0.171012
+	Input weight: 0.094161
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.258248
+	Input weight: 0.171941
+	Input weight: 0.113712
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.214187
+	Input weight: 0.121178
+	Input weight: 0.218693
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.102609
+	Input weight: 0.229459
+	Input weight: 0.216218
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.587208
+	Input weight: 0.536349
+	Input weight: 0.502598
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.178698
+	Input weight: 0.127415
+	Input weight: 0.059818
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.926512
+	Input weight: 0.898783
+	Input weight: 0.865541
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.356080
+	Input weight: 0.386572
+	Input weight: 0.405637
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.370091
+	Input weight: 0.067473
+	Input weight: 0.383248
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.941646
+	Input weight: 0.871269
+	Input weight: 0.022141
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.169649
+	Input weight: 0.163211
+	Input weight: 0.201568
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.611337
+	Input weight: 0.618560
+	Input weight: 0.542469
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.088878
+	Input weight: 0.148666
+	Input weight: 0.205391
+	Input weight: 0.153352
+	Input weight: 0.150927
+	Input weight: 0.164506
+	Input weight: 0.166727
+	Input weight: 0.159912
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.206361
+	Input weight: 0.314942
+	Input weight: 0.194585
+	Input weight: 0.175348
+	Input weight: 0.167070
+	Input weight: 0.188215
+	Input weight: 0.155692
+	Input weight: 0.167556
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.208803
+	Input weight: 0.151497
+	Input weight: 0.148556
+	Input weight: 0.105879
+	Input weight: 0.195629
+	Input weight: 0.175802
+	Input weight: 0.166889
+	Input weight: 0.093413
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.258248
+	Input weight: 0.171941
+	Input weight: 0.113712
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.214187
+	Input weight: 0.121178
+	Input weight: 0.218693
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.102609
+	Input weight: 0.229459
+	Input weight: 0.216218
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.587208
+	Input weight: 0.536349
+	Input weight: 0.502598
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.178698
+	Input weight: 0.127415
+	Input weight: 0.059818
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.926512
+	Input weight: 0.898783
+	Input weight: 0.865541
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.356080
+	Input weight: 0.386572
+	Input weight: 0.405637
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.370091
+	Input weight: 0.067473
+	Input weight: 0.383248
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.941646
+	Input weight: 0.871269
+	Input weight: 0.022141
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.169649
+	Input weight: 0.163211
+	Input weight: 0.201568
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.611337
+	Input weight: 0.618560
+	Input weight: 0.542469
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.088878
+	Input weight: 0.148666
+	Input weight: 0.205391
+	Input weight: 0.153352
+	Input weight: 0.150927
+	Input weight: 0.164506
+	Input weight: 0.166727
+	Input weight: 0.159912
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.206361
+	Input weight: 0.314942
+	Input weight: 0.194585
+	Input weight: 0.175348
+	Input weight: 0.167070
+	Input weight: 0.188215
+	Input weight: 0.155692
+	Input weight: 0.167556
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.208803
+	Input weight: 0.151497
+	Input weight: 0.148556
+	Input weight: 0.105879
+	Input weight: 0.195629
+	Input weight: 0.175802
+	Input weight: 0.166889
+	Input weight: 0.093413
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.258248
+	Input weight: 0.171941
+	Input weight: 0.113712
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.214187
+	Input weight: 0.121178
+	Input weight: 0.218693
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.102609
+	Input weight: 0.229459
+	Input weight: 0.216218
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.645963
+	Input weight: 0.598190
+	Input weight: 0.565095
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.174011
+	Input weight: 0.125610
+	Input weight: 0.059617
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.931148
+	Input weight: 0.907059
+	Input weight: 0.879085
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.327008
+	Input weight: 0.351135
+	Input weight: 0.365967
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.338160
+	Input weight: 0.067186
+	Input weight: 0.348530
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.944665
+	Input weight: 0.883848
+	Input weight: 0.022609
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.165595
+	Input weight: 0.159573
+	Input weight: 0.195029
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.667793
+	Input weight: 0.674230
+	Input weight: 0.604070
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.088878
+	Input weight: 0.148666
+	Input weight: 0.205391
+	Input weight: 0.153352
+	Input weight: 0.150927
+	Input weight: 0.164506
+	Input weight: 0.166727
+	Input weight: 0.159912
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.206361
+	Input weight: 0.314942
+	Input weight: 0.194585
+	Input weight: 0.175348
+	Input weight: 0.167070
+	Input weight: 0.188215
+	Input weight: 0.155692
+	Input weight: 0.167556
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.208803
+	Input weight: 0.151497
+	Input weight: 0.148556
+	Input weight: 0.105879
+	Input weight: 0.195629
+	Input weight: 0.175802
+	Input weight: 0.166889
+	Input weight: 0.093413
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.248101
+	Input weight: 0.169032
+	Input weight: 0.113018
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.209969
+	Input weight: 0.120868
+	Input weight: 0.214153
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.102178
+	Input weight: 0.222461
+	Input weight: 0.210383
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.645963
+	Input weight: 0.598190
+	Input weight: 0.565095
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.174011
+	Input weight: 0.125610
+	Input weight: 0.059617
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.931148
+	Input weight: 0.907059
+	Input weight: 0.879085
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.327008
+	Input weight: 0.351135
+	Input weight: 0.365967
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.338160
+	Input weight: 0.067186
+	Input weight: 0.348530
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.944665
+	Input weight: 0.883848
+	Input weight: 0.022609
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.165595
+	Input weight: 0.159573
+	Input weight: 0.195029
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.667793
+	Input weight: 0.674230
+	Input weight: 0.604070
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.088132
+	Input weight: 0.145590
+	Input weight: 0.198010
+	Input weight: 0.150004
+	Input weight: 0.147722
+	Input weight: 0.160452
+	Input weight: 0.162522
+	Input weight: 0.156159
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.199041
+	Input weight: 0.292847
+	Input weight: 0.188340
+	Input weight: 0.170643
+	Input weight: 0.162948
+	Input weight: 0.182509
+	Input weight: 0.152296
+	Input weight: 0.163401
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.201219
+	Input weight: 0.148331
+	Input weight: 0.145557
+	Input weight: 0.104706
+	Input weight: 0.189266
+	Input weight: 0.171041
+	Input weight: 0.162759
+	Input weight: 0.092586
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.248101
+	Input weight: 0.169032
+	Input weight: 0.113018
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.209969
+	Input weight: 0.120868
+	Input weight: 0.214153
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.102178
+	Input weight: 0.222461
+	Input weight: 0.210383
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.645963
+	Input weight: 0.598190
+	Input weight: 0.565095
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.174011
+	Input weight: 0.125610
+	Input weight: 0.059617
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.931148
+	Input weight: 0.907059
+	Input weight: 0.879085
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.327008
+	Input weight: 0.351135
+	Input weight: 0.365967
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.338160
+	Input weight: 0.067186
+	Input weight: 0.348530
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.944665
+	Input weight: 0.883848
+	Input weight: 0.022609
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.165595
+	Input weight: 0.159573
+	Input weight: 0.195029
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.667793
+	Input weight: 0.674230
+	Input weight: 0.604070
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.088132
+	Input weight: 0.145590
+	Input weight: 0.198010
+	Input weight: 0.150004
+	Input weight: 0.147722
+	Input weight: 0.160452
+	Input weight: 0.162522
+	Input weight: 0.156159
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.199041
+	Input weight: 0.292847
+	Input weight: 0.188340
+	Input weight: 0.170643
+	Input weight: 0.162948
+	Input weight: 0.182509
+	Input weight: 0.152296
+	Input weight: 0.163401
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.201219
+	Input weight: 0.148331
+	Input weight: 0.145557
+	Input weight: 0.104706
+	Input weight: 0.189266
+	Input weight: 0.171041
+	Input weight: 0.162759
+	Input weight: 0.092586
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.248101
+	Input weight: 0.169032
+	Input weight: 0.113018
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.209969
+	Input weight: 0.120868
+	Input weight: 0.214153
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.102178
+	Input weight: 0.222461
+	Input weight: 0.210383
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.550536
+	Input weight: 0.512182
+	Input weight: 0.486615
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.169659
+	Input weight: 0.123877
+	Input weight: 0.059417
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.935258
+	Input weight: 0.914166
+	Input weight: 0.890384
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.375441
+	Input weight: 0.403046
+	Input weight: 0.419807
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.388250
+	Input weight: 0.071114
+	Input weight: 0.400085
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.947398
+	Input weight: 0.894387
+	Input weight: 0.023098
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.161806
+	Input weight: 0.156158
+	Input weight: 0.189058
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.568861
+	Input weight: 0.574383
+	Input weight: 0.516797
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.088132
+	Input weight: 0.145590
+	Input weight: 0.198010
+	Input weight: 0.150004
+	Input weight: 0.147722
+	Input weight: 0.160452
+	Input weight: 0.162522
+	Input weight: 0.156159
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.199041
+	Input weight: 0.292847
+	Input weight: 0.188340
+	Input weight: 0.170643
+	Input weight: 0.162948
+	Input weight: 0.182509
+	Input weight: 0.152296
+	Input weight: 0.163401
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.201219
+	Input weight: 0.148331
+	Input weight: 0.145557
+	Input weight: 0.104706
+	Input weight: 0.189266
+	Input weight: 0.171041
+	Input weight: 0.162759
+	Input weight: 0.092586
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.232122
+	Input weight: 0.162713
+	Input weight: 0.110637
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.198563
+	Input weight: 0.117807
+	Input weight: 0.202200
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.100707
+	Input weight: 0.211795
+	Input weight: 0.201117
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.550536
+	Input weight: 0.512182
+	Input weight: 0.486615
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.169659
+	Input weight: 0.123877
+	Input weight: 0.059417
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.935258
+	Input weight: 0.914166
+	Input weight: 0.890384
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.375441
+	Input weight: 0.403046
+	Input weight: 0.419807
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.388250
+	Input weight: 0.071114
+	Input weight: 0.400085
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.947398
+	Input weight: 0.894387
+	Input weight: 0.023098
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.161806
+	Input weight: 0.156158
+	Input weight: 0.189058
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.568861
+	Input weight: 0.574383
+	Input weight: 0.516797
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.087303
+	Input weight: 0.142431
+	Input weight: 0.190877
+	Input weight: 0.146583
+	Input weight: 0.144438
+	Input weight: 0.156360
+	Input weight: 0.158289
+	Input weight: 0.152352
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.192089
+	Input weight: 0.273872
+	Input weight: 0.182340
+	Input weight: 0.166038
+	Input weight: 0.158881
+	Input weight: 0.176993
+	Input weight: 0.148908
+	Input weight: 0.159304
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.193948
+	Input weight: 0.145109
+	Input weight: 0.142494
+	Input weight: 0.103447
+	Input weight: 0.183084
+	Input weight: 0.166321
+	Input weight: 0.158626
+	Input weight: 0.091682
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.232122
+	Input weight: 0.162713
+	Input weight: 0.110637
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.198563
+	Input weight: 0.117807
+	Input weight: 0.202200
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.100707
+	Input weight: 0.211795
+	Input weight: 0.201117
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.550536
+	Input weight: 0.512182
+	Input weight: 0.486615
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.169659
+	Input weight: 0.123877
+	Input weight: 0.059417
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.935258
+	Input weight: 0.914166
+	Input weight: 0.890384
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.375441
+	Input weight: 0.403046
+	Input weight: 0.419807
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.388250
+	Input weight: 0.071114
+	Input weight: 0.400085
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.947398
+	Input weight: 0.894387
+	Input weight: 0.023098
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.161806
+	Input weight: 0.156158
+	Input weight: 0.189058
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.568861
+	Input weight: 0.574383
+	Input weight: 0.516797
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.087303
+	Input weight: 0.142431
+	Input weight: 0.190877
+	Input weight: 0.146583
+	Input weight: 0.144438
+	Input weight: 0.156360
+	Input weight: 0.158289
+	Input weight: 0.152352
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.192089
+	Input weight: 0.273872
+	Input weight: 0.182340
+	Input weight: 0.166038
+	Input weight: 0.158881
+	Input weight: 0.176993
+	Input weight: 0.148908
+	Input weight: 0.159304
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.193948
+	Input weight: 0.145109
+	Input weight: 0.142494
+	Input weight: 0.103447
+	Input weight: 0.183084
+	Input weight: 0.166321
+	Input weight: 0.158626
+	Input weight: 0.091682
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.232122
+	Input weight: 0.162713
+	Input weight: 0.110637
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.198563
+	Input weight: 0.117807
+	Input weight: 0.202200
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.100707
+	Input weight: 0.211795
+	Input weight: 0.201117
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.611766
+	Input weight: 0.574608
+	Input weight: 0.549025
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.165604
+	Input weight: 0.122212
+	Input weight: 0.059220
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.938925
+	Input weight: 0.920323
+	Input weight: 0.899909
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.342389
+	Input weight: 0.363961
+	Input weight: 0.376881
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.352448
+	Input weight: 0.070780
+	Input weight: 0.361666
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.949881
+	Input weight: 0.903310
+	Input weight: 0.023607
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.158255
+	Input weight: 0.152945
+	Input weight: 0.183578
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.629013
+	Input weight: 0.634147
+	Input weight: 0.579156
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.087303
+	Input weight: 0.142431
+	Input weight: 0.190877
+	Input weight: 0.146583
+	Input weight: 0.144438
+	Input weight: 0.156360
+	Input weight: 0.158289
+	Input weight: 0.152352
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.192089
+	Input weight: 0.273872
+	Input weight: 0.182340
+	Input weight: 0.166038
+	Input weight: 0.158881
+	Input weight: 0.176993
+	Input weight: 0.148908
+	Input weight: 0.159304
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.193948
+	Input weight: 0.145109
+	Input weight: 0.142494
+	Input weight: 0.103447
+	Input weight: 0.183084
+	Input weight: 0.166321
+	Input weight: 0.158626
+	Input weight: 0.091682
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.224631
+	Input weight: 0.160238
+	Input weight: 0.109988
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.195226
+	Input weight: 0.117503
+	Input weight: 0.198637
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.100224
+	Input weight: 0.205996
+	Input weight: 0.196162
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.611766
+	Input weight: 0.574608
+	Input weight: 0.549025
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.165604
+	Input weight: 0.122212
+	Input weight: 0.059220
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.938925
+	Input weight: 0.920323
+	Input weight: 0.899909
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.342389
+	Input weight: 0.363961
+	Input weight: 0.376881
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.352448
+	Input weight: 0.070780
+	Input weight: 0.361666
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.949881
+	Input weight: 0.903310
+	Input weight: 0.023607
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.158255
+	Input weight: 0.152945
+	Input weight: 0.183578
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.629013
+	Input weight: 0.634147
+	Input weight: 0.579156
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.086617
+	Input weight: 0.139756
+	Input weight: 0.184916
+	Input weight: 0.143688
+	Input weight: 0.141658
+	Input weight: 0.152902
+	Input weight: 0.154712
+	Input weight: 0.149132
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.186107
+	Input weight: 0.258489
+	Input weight: 0.177150
+	Input weight: 0.162024
+	Input weight: 0.155326
+	Input weight: 0.172209
+	Input weight: 0.145936
+	Input weight: 0.155722
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.187789
+	Input weight: 0.142332
+	Input weight: 0.139854
+	Input weight: 0.102366
+	Input weight: 0.177819
+	Input weight: 0.162274
+	Input weight: 0.155074
+	Input weight: 0.090912
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.224631
+	Input weight: 0.160238
+	Input weight: 0.109988
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.195226
+	Input weight: 0.117503
+	Input weight: 0.198637
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.100224
+	Input weight: 0.205996
+	Input weight: 0.196162
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.611766
+	Input weight: 0.574608
+	Input weight: 0.549025
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.165604
+	Input weight: 0.122212
+	Input weight: 0.059220
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.938925
+	Input weight: 0.920323
+	Input weight: 0.899909
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.342389
+	Input weight: 0.363961
+	Input weight: 0.376881
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.352448
+	Input weight: 0.070780
+	Input weight: 0.361666
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.949881
+	Input weight: 0.903310
+	Input weight: 0.023607
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.158255
+	Input weight: 0.152945
+	Input weight: 0.183578
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.629013
+	Input weight: 0.634147
+	Input weight: 0.579156
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.086617
+	Input weight: 0.139756
+	Input weight: 0.184916
+	Input weight: 0.143688
+	Input weight: 0.141658
+	Input weight: 0.152902
+	Input weight: 0.154712
+	Input weight: 0.149132
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.186107
+	Input weight: 0.258489
+	Input weight: 0.177150
+	Input weight: 0.162024
+	Input weight: 0.155326
+	Input weight: 0.172209
+	Input weight: 0.145936
+	Input weight: 0.155722
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.187789
+	Input weight: 0.142332
+	Input weight: 0.139854
+	Input weight: 0.102366
+	Input weight: 0.177819
+	Input weight: 0.162274
+	Input weight: 0.155074
+	Input weight: 0.090912
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.224631
+	Input weight: 0.160238
+	Input weight: 0.109988
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.195226
+	Input weight: 0.117503
+	Input weight: 0.198637
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.100224
+	Input weight: 0.205996
+	Input weight: 0.196162
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.522876
+	Input weight: 0.493902
+	Input weight: 0.474392
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.161815
+	Input weight: 0.120610
+	Input weight: 0.059025
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.888370
+	Input weight: 0.858214
+	Input weight: 0.826965
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.315993
+	Input weight: 0.333296
+	Input weight: 0.343524
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.324098
+	Input weight: 0.070451
+	Input weight: 0.331469
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.952148
+	Input weight: 0.910938
+	Input weight: 0.024138
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.154919
+	Input weight: 0.149915
+	Input weight: 0.178527
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.536684
+	Input weight: 0.540848
+	Input weight: 0.497402
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.086617
+	Input weight: 0.139756
+	Input weight: 0.184916
+	Input weight: 0.143688
+	Input weight: 0.141658
+	Input weight: 0.152902
+	Input weight: 0.154712
+	Input weight: 0.149132
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.186107
+	Input weight: 0.258489
+	Input weight: 0.177150
+	Input weight: 0.162024
+	Input weight: 0.155326
+	Input weight: 0.172209
+	Input weight: 0.145936
+	Input weight: 0.155722
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.187789
+	Input weight: 0.142332
+	Input weight: 0.139854
+	Input weight: 0.102366
+	Input weight: 0.177819
+	Input weight: 0.162274
+	Input weight: 0.155074
+	Input weight: 0.090912
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.204443
+	Input weight: 0.150500
+	Input weight: 0.105667
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.181137
+	Input weight: 0.112853
+	Input weight: 0.184005
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096628
+	Input weight: 0.189028
+	Input weight: 0.180890
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.522876
+	Input weight: 0.493902
+	Input weight: 0.474392
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.161815
+	Input weight: 0.120610
+	Input weight: 0.059025
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.888370
+	Input weight: 0.858214
+	Input weight: 0.826965
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.315993
+	Input weight: 0.333296
+	Input weight: 0.343524
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.324098
+	Input weight: 0.070451
+	Input weight: 0.331469
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.952148
+	Input weight: 0.910938
+	Input weight: 0.024138
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.154919
+	Input weight: 0.149915
+	Input weight: 0.178527
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.536684
+	Input weight: 0.540848
+	Input weight: 0.497402
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.085764
+	Input weight: 0.136772
+	Input weight: 0.178707
+	Input weight: 0.140478
+	Input weight: 0.138566
+	Input weight: 0.149123
+	Input weight: 0.150815
+	Input weight: 0.145593
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.179977
+	Input weight: 0.244128
+	Input weight: 0.171766
+	Input weight: 0.157770
+	Input weight: 0.151521
+	Input weight: 0.167212
+	Input weight: 0.142711
+	Input weight: 0.151892
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.181430
+	Input weight: 0.139264
+	Input weight: 0.136925
+	Input weight: 0.101082
+	Input weight: 0.172307
+	Input weight: 0.157939
+	Input weight: 0.151228
+	Input weight: 0.089972
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.204443
+	Input weight: 0.150500
+	Input weight: 0.105667
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.181137
+	Input weight: 0.112853
+	Input weight: 0.184005
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096628
+	Input weight: 0.189028
+	Input weight: 0.180890
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.522876
+	Input weight: 0.493902
+	Input weight: 0.474392
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.161815
+	Input weight: 0.120610
+	Input weight: 0.059025
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.888370
+	Input weight: 0.858214
+	Input weight: 0.826965
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.315993
+	Input weight: 0.333296
+	Input weight: 0.343524
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.324098
+	Input weight: 0.070451
+	Input weight: 0.331469
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.952148
+	Input weight: 0.910938
+	Input weight: 0.024138
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.154919
+	Input weight: 0.149915
+	Input weight: 0.178527
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.536684
+	Input weight: 0.540848
+	Input weight: 0.497402
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.085764
+	Input weight: 0.136772
+	Input weight: 0.178707
+	Input weight: 0.140478
+	Input weight: 0.138566
+	Input weight: 0.149123
+	Input weight: 0.150815
+	Input weight: 0.145593
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.179977
+	Input weight: 0.244128
+	Input weight: 0.171766
+	Input weight: 0.157770
+	Input weight: 0.151521
+	Input weight: 0.167212
+	Input weight: 0.142711
+	Input weight: 0.151892
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.181430
+	Input weight: 0.139264
+	Input weight: 0.136925
+	Input weight: 0.101082
+	Input weight: 0.172307
+	Input weight: 0.157939
+	Input weight: 0.151228
+	Input weight: 0.089972
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.204443
+	Input weight: 0.150500
+	Input weight: 0.105667
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.181137
+	Input weight: 0.112853
+	Input weight: 0.184005
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096628
+	Input weight: 0.189028
+	Input weight: 0.180890
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.585115
+	Input weight: 0.556384
+	Input weight: 0.536565
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.158263
+	Input weight: 0.119067
+	Input weight: 0.058831
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.898205
+	Input weight: 0.873021
+	Input weight: 0.847441
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.362710
+	Input weight: 0.382673
+	Input weight: 0.394381
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.372084
+	Input weight: 0.074739
+	Input weight: 0.380574
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.954224
+	Input weight: 0.917520
+	Input weight: 0.024693
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.151777
+	Input weight: 0.147050
+	Input weight: 0.173853
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.598513
+	Input weight: 0.602517
+	Input weight: 0.559899
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.085764
+	Input weight: 0.136772
+	Input weight: 0.178707
+	Input weight: 0.140478
+	Input weight: 0.138566
+	Input weight: 0.149123
+	Input weight: 0.150815
+	Input weight: 0.145593
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.179977
+	Input weight: 0.244128
+	Input weight: 0.171766
+	Input weight: 0.157770
+	Input weight: 0.151521
+	Input weight: 0.167212
+	Input weight: 0.142711
+	Input weight: 0.151892
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.181430
+	Input weight: 0.139264
+	Input weight: 0.136925
+	Input weight: 0.101082
+	Input weight: 0.172307
+	Input weight: 0.157939
+	Input weight: 0.151228
+	Input weight: 0.089972
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.205093
+	Input weight: 0.151914
+	Input weight: 0.106848
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.181504
+	Input weight: 0.113779
+	Input weight: 0.184303
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.097844
+	Input weight: 0.190528
+	Input weight: 0.182495
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.585115
+	Input weight: 0.556384
+	Input weight: 0.536565
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.158263
+	Input weight: 0.119067
+	Input weight: 0.058831
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.898205
+	Input weight: 0.873021
+	Input weight: 0.847441
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.362710
+	Input weight: 0.382673
+	Input weight: 0.394381
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.372084
+	Input weight: 0.074739
+	Input weight: 0.380574
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.954224
+	Input weight: 0.917520
+	Input weight: 0.024693
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.151777
+	Input weight: 0.147050
+	Input weight: 0.173853
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.598513
+	Input weight: 0.602517
+	Input weight: 0.559899
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.085202
+	Input weight: 0.134599
+	Input weight: 0.174078
+	Input weight: 0.138133
+	Input weight: 0.136311
+	Input weight: 0.146344
+	Input weight: 0.147946
+	Input weight: 0.142997
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.175298
+	Input weight: 0.233304
+	Input weight: 0.167662
+	Input weight: 0.154543
+	Input weight: 0.148644
+	Input weight: 0.163408
+	Input weight: 0.140286
+	Input weight: 0.148995
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.176625
+	Input weight: 0.136991
+	Input weight: 0.134759
+	Input weight: 0.100182
+	Input weight: 0.168148
+	Input weight: 0.154687
+	Input weight: 0.148352
+	Input weight: 0.089332
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.205093
+	Input weight: 0.151914
+	Input weight: 0.106848
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.181504
+	Input weight: 0.113779
+	Input weight: 0.184303
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.097844
+	Input weight: 0.190528
+	Input weight: 0.182495
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.585115
+	Input weight: 0.556384
+	Input weight: 0.536565
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.158263
+	Input weight: 0.119067
+	Input weight: 0.058831
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.898205
+	Input weight: 0.873021
+	Input weight: 0.847441
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.362710
+	Input weight: 0.382673
+	Input weight: 0.394381
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.372084
+	Input weight: 0.074739
+	Input weight: 0.380574
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.954224
+	Input weight: 0.917520
+	Input weight: 0.024693
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.151777
+	Input weight: 0.147050
+	Input weight: 0.173853
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.598513
+	Input weight: 0.602517
+	Input weight: 0.559899
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.085202
+	Input weight: 0.134599
+	Input weight: 0.174078
+	Input weight: 0.138133
+	Input weight: 0.136311
+	Input weight: 0.146344
+	Input weight: 0.147946
+	Input weight: 0.142997
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.175298
+	Input weight: 0.233304
+	Input weight: 0.167662
+	Input weight: 0.154543
+	Input weight: 0.148644
+	Input weight: 0.163408
+	Input weight: 0.140286
+	Input weight: 0.148995
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.176625
+	Input weight: 0.136991
+	Input weight: 0.134759
+	Input weight: 0.100182
+	Input weight: 0.168148
+	Input weight: 0.154687
+	Input weight: 0.148352
+	Input weight: 0.089332
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.205093
+	Input weight: 0.151914
+	Input weight: 0.106848
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.181504
+	Input weight: 0.113779
+	Input weight: 0.184303
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.097844
+	Input weight: 0.190528
+	Input weight: 0.182495
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.502005
+	Input weight: 0.479977
+	Input weight: 0.464974
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.154927
+	Input weight: 0.117580
+	Input weight: 0.058640
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.906565
+	Input weight: 0.885310
+	Input weight: 0.864156
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.332300
+	Input weight: 0.348079
+	Input weight: 0.357232
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.339738
+	Input weight: 0.074353
+	Input weight: 0.346431
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.956132
+	Input weight: 0.923247
+	Input weight: 0.025273
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.148811
+	Input weight: 0.144338
+	Input weight: 0.169511
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.656255
+	Input weight: 0.659872
+	Input weight: 0.620618
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.085202
+	Input weight: 0.134599
+	Input weight: 0.174078
+	Input weight: 0.138133
+	Input weight: 0.136311
+	Input weight: 0.146344
+	Input weight: 0.147946
+	Input weight: 0.142997
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.175298
+	Input weight: 0.233304
+	Input weight: 0.167662
+	Input weight: 0.154543
+	Input weight: 0.148644
+	Input weight: 0.163408
+	Input weight: 0.140286
+	Input weight: 0.148995
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.176625
+	Input weight: 0.136991
+	Input weight: 0.134759
+	Input weight: 0.100182
+	Input weight: 0.168148
+	Input weight: 0.154687
+	Input weight: 0.148352
+	Input weight: 0.089332
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.195421
+	Input weight: 0.147294
+	Input weight: 0.104901
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.175526
+	Input weight: 0.112012
+	Input weight: 0.178083
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096400
+	Input weight: 0.182890
+	Input weight: 0.175637
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.502005
+	Input weight: 0.479977
+	Input weight: 0.464974
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.154927
+	Input weight: 0.117580
+	Input weight: 0.058640
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.906565
+	Input weight: 0.885310
+	Input weight: 0.864156
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.332300
+	Input weight: 0.348079
+	Input weight: 0.357232
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.339738
+	Input weight: 0.074353
+	Input weight: 0.346431
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.956132
+	Input weight: 0.923247
+	Input weight: 0.025273
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.148811
+	Input weight: 0.144338
+	Input weight: 0.169511
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.656255
+	Input weight: 0.659872
+	Input weight: 0.620618
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.084523
+	Input weight: 0.132221
+	Input weight: 0.169294
+	Input weight: 0.135581
+	Input weight: 0.133849
+	Input weight: 0.143356
+	Input weight: 0.144868
+	Input weight: 0.140191
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.170500
+	Input weight: 0.222982
+	Input weight: 0.163411
+	Input weight: 0.151139
+	Input weight: 0.145584
+	Input weight: 0.159444
+	Input weight: 0.137675
+	Input weight: 0.145915
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.171702
+	Input weight: 0.134529
+	Input weight: 0.132406
+	Input weight: 0.099141
+	Input weight: 0.163840
+	Input weight: 0.151254
+	Input weight: 0.145290
+	Input weight: 0.088574
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.195421
+	Input weight: 0.147294
+	Input weight: 0.104901
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.175526
+	Input weight: 0.112012
+	Input weight: 0.178083
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096400
+	Input weight: 0.182890
+	Input weight: 0.175637
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.502005
+	Input weight: 0.479977
+	Input weight: 0.464974
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.154927
+	Input weight: 0.117580
+	Input weight: 0.058640
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.906565
+	Input weight: 0.885310
+	Input weight: 0.864156
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.332300
+	Input weight: 0.348079
+	Input weight: 0.357232
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.339738
+	Input weight: 0.074353
+	Input weight: 0.346431
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.956132
+	Input weight: 0.923247
+	Input weight: 0.025273
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.148811
+	Input weight: 0.144338
+	Input weight: 0.169511
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.656255
+	Input weight: 0.659872
+	Input weight: 0.620618
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.084523
+	Input weight: 0.132221
+	Input weight: 0.169294
+	Input weight: 0.135581
+	Input weight: 0.133849
+	Input weight: 0.143356
+	Input weight: 0.144868
+	Input weight: 0.140191
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.170500
+	Input weight: 0.222982
+	Input weight: 0.163411
+	Input weight: 0.151139
+	Input weight: 0.145584
+	Input weight: 0.159444
+	Input weight: 0.137675
+	Input weight: 0.145915
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.171702
+	Input weight: 0.134529
+	Input weight: 0.132406
+	Input weight: 0.099141
+	Input weight: 0.163840
+	Input weight: 0.151254
+	Input weight: 0.145290
+	Input weight: 0.088574
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.195421
+	Input weight: 0.147294
+	Input weight: 0.104901
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.175526
+	Input weight: 0.112012
+	Input weight: 0.178083
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096400
+	Input weight: 0.182890
+	Input weight: 0.175637
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.564503
+	Input weight: 0.542277
+	Input weight: 0.526863
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.151784
+	Input weight: 0.116145
+	Input weight: 0.058450
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.913740
+	Input weight: 0.895619
+	Input weight: 0.877936
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.381530
+	Input weight: 0.399572
+	Input weight: 0.409956
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.390056
+	Input weight: 0.079090
+	Input weight: 0.397695
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.957891
+	Input weight: 0.928269
+	Input weight: 0.025880
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.146006
+	Input weight: 0.141765
+	Input weight: 0.165466
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.559102
+	Input weight: 0.562144
+	Input weight: 0.529930
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.084523
+	Input weight: 0.132221
+	Input weight: 0.169294
+	Input weight: 0.135581
+	Input weight: 0.133849
+	Input weight: 0.143356
+	Input weight: 0.144868
+	Input weight: 0.140191
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.170500
+	Input weight: 0.222982
+	Input weight: 0.163411
+	Input weight: 0.151139
+	Input weight: 0.145584
+	Input weight: 0.159444
+	Input weight: 0.137675
+	Input weight: 0.145915
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.171702
+	Input weight: 0.134529
+	Input weight: 0.132406
+	Input weight: 0.099141
+	Input weight: 0.163840
+	Input weight: 0.151254
+	Input weight: 0.145290
+	Input weight: 0.088574
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.191502
+	Input weight: 0.145825
+	Input weight: 0.104536
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.171883
+	Input weight: 0.111122
+	Input weight: 0.174278
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096307
+	Input weight: 0.180224
+	Input weight: 0.173341
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.564503
+	Input weight: 0.542277
+	Input weight: 0.526863
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.151784
+	Input weight: 0.116145
+	Input weight: 0.058450
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.913740
+	Input weight: 0.895619
+	Input weight: 0.877936
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.381530
+	Input weight: 0.399572
+	Input weight: 0.409956
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.390056
+	Input weight: 0.079090
+	Input weight: 0.397695
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.957891
+	Input weight: 0.928269
+	Input weight: 0.025880
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.146006
+	Input weight: 0.141765
+	Input weight: 0.165466
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.559102
+	Input weight: 0.562144
+	Input weight: 0.529930
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.083920
+	Input weight: 0.130099
+	Input weight: 0.165081
+	Input weight: 0.133305
+	Input weight: 0.131653
+	Input weight: 0.140697
+	Input weight: 0.142130
+	Input weight: 0.137693
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.166268
+	Input weight: 0.214173
+	Input weight: 0.159648
+	Input weight: 0.148111
+	Input weight: 0.142857
+	Input weight: 0.155929
+	Input weight: 0.135343
+	Input weight: 0.143170
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.167351
+	Input weight: 0.132320
+	Input weight: 0.130294
+	Input weight: 0.098206
+	Input weight: 0.160018
+	Input weight: 0.148191
+	Input weight: 0.142552
+	Input weight: 0.087894
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.191502
+	Input weight: 0.145825
+	Input weight: 0.104536
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.171883
+	Input weight: 0.111122
+	Input weight: 0.174278
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096307
+	Input weight: 0.180224
+	Input weight: 0.173341
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.564503
+	Input weight: 0.542277
+	Input weight: 0.526863
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.151784
+	Input weight: 0.116145
+	Input weight: 0.058450
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.913740
+	Input weight: 0.895619
+	Input weight: 0.877936
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.381530
+	Input weight: 0.399572
+	Input weight: 0.409956
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.390056
+	Input weight: 0.079090
+	Input weight: 0.397695
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.957891
+	Input weight: 0.928269
+	Input weight: 0.025880
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.146006
+	Input weight: 0.141765
+	Input weight: 0.165466
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.559102
+	Input weight: 0.562144
+	Input weight: 0.529930
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.083920
+	Input weight: 0.130099
+	Input weight: 0.165081
+	Input weight: 0.133305
+	Input weight: 0.131653
+	Input weight: 0.140697
+	Input weight: 0.142130
+	Input weight: 0.137693
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.166268
+	Input weight: 0.214173
+	Input weight: 0.159648
+	Input weight: 0.148111
+	Input weight: 0.142857
+	Input weight: 0.155929
+	Input weight: 0.135343
+	Input weight: 0.143170
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.167351
+	Input weight: 0.132320
+	Input weight: 0.130294
+	Input weight: 0.098206
+	Input weight: 0.160018
+	Input weight: 0.148191
+	Input weight: 0.142552
+	Input weight: 0.087894
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.191502
+	Input weight: 0.145825
+	Input weight: 0.104536
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.171883
+	Input weight: 0.111122
+	Input weight: 0.174278
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.096307
+	Input weight: 0.180224
+	Input weight: 0.173341
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.624940
+	Input weight: 0.603886
+	Input weight: 0.589002
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.148818
+	Input weight: 0.114761
+	Input weight: 0.058262
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.919952
+	Input weight: 0.904359
+	Input weight: 0.889420
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.347182
+	Input weight: 0.361268
+	Input weight: 0.369303
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.353859
+	Input weight: 0.078634
+	Input weight: 0.359810
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.959518
+	Input weight: 0.932702
+	Input weight: 0.026515
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.143348
+	Input weight: 0.139320
+	Input weight: 0.161686
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.619868
+	Input weight: 0.622728
+	Input weight: 0.591983
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.083920
+	Input weight: 0.130099
+	Input weight: 0.165081
+	Input weight: 0.133305
+	Input weight: 0.131653
+	Input weight: 0.140697
+	Input weight: 0.142130
+	Input weight: 0.137693
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.166268
+	Input weight: 0.214173
+	Input weight: 0.159648
+	Input weight: 0.148111
+	Input weight: 0.142857
+	Input weight: 0.155929
+	Input weight: 0.135343
+	Input weight: 0.143170
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.167351
+	Input weight: 0.132320
+	Input weight: 0.130294
+	Input weight: 0.098206
+	Input weight: 0.160018
+	Input weight: 0.148191
+	Input weight: 0.142552
+	Input weight: 0.087894
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.187392
+	Input weight: 0.144136
+	Input weight: 0.104030
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.169948
+	Input weight: 0.110920
+	Input weight: 0.172234
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.095951
+	Input weight: 0.176858
+	Input weight: 0.170372
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.624940
+	Input weight: 0.603886
+	Input weight: 0.589002
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.148818
+	Input weight: 0.114761
+	Input weight: 0.058262
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.919952
+	Input weight: 0.904359
+	Input weight: 0.889420
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.347182
+	Input weight: 0.361268
+	Input weight: 0.369303
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.353859
+	Input weight: 0.078634
+	Input weight: 0.359810
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.959518
+	Input weight: 0.932702
+	Input weight: 0.026515
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.143348
+	Input weight: 0.139320
+	Input weight: 0.161686
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.619868
+	Input weight: 0.622728
+	Input weight: 0.591983
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.083337
+	Input weight: 0.128089
+	Input weight: 0.161179
+	Input weight: 0.131153
+	Input weight: 0.129575
+	Input weight: 0.138195
+	Input weight: 0.139556
+	Input weight: 0.135337
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.162314
+	Input weight: 0.206264
+	Input weight: 0.156116
+	Input weight: 0.145245
+	Input weight: 0.140266
+	Input weight: 0.152622
+	Input weight: 0.133116
+	Input weight: 0.140564
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.163320
+	Input weight: 0.130226
+	Input weight: 0.128288
+	Input weight: 0.097304
+	Input weight: 0.156457
+	Input weight: 0.145316
+	Input weight: 0.139972
+	Input weight: 0.087236
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.187392
+	Input weight: 0.144136
+	Input weight: 0.104030
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.169948
+	Input weight: 0.110920
+	Input weight: 0.172234
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.095951
+	Input weight: 0.176858
+	Input weight: 0.170372
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.624940
+	Input weight: 0.603886
+	Input weight: 0.589002
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.148818
+	Input weight: 0.114761
+	Input weight: 0.058262
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.919952
+	Input weight: 0.904359
+	Input weight: 0.889420
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.347182
+	Input weight: 0.361268
+	Input weight: 0.369303
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.353859
+	Input weight: 0.078634
+	Input weight: 0.359810
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.959518
+	Input weight: 0.932702
+	Input weight: 0.026515
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.143348
+	Input weight: 0.139320
+	Input weight: 0.161686
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.619868
+	Input weight: 0.622728
+	Input weight: 0.591983
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.083337
+	Input weight: 0.128089
+	Input weight: 0.161179
+	Input weight: 0.131153
+	Input weight: 0.129575
+	Input weight: 0.138195
+	Input weight: 0.139556
+	Input weight: 0.135337
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.162314
+	Input weight: 0.206264
+	Input weight: 0.156116
+	Input weight: 0.145245
+	Input weight: 0.140266
+	Input weight: 0.152622
+	Input weight: 0.133116
+	Input weight: 0.140564
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.163320
+	Input weight: 0.130226
+	Input weight: 0.128288
+	Input weight: 0.097304
+	Input weight: 0.156457
+	Input weight: 0.145316
+	Input weight: 0.139972
+	Input weight: 0.087236
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.187392
+	Input weight: 0.144136
+	Input weight: 0.104030
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.169948
+	Input weight: 0.110920
+	Input weight: 0.172234
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.095951
+	Input weight: 0.176858
+	Input weight: 0.170372
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.533399
+	Input weight: 0.516652
+	Input weight: 0.505019
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.146013
+	Input weight: 0.113423
+	Input weight: 0.058075
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.925375
+	Input weight: 0.911840
+	Input weight: 0.899094
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.398550
+	Input weight: 0.414515
+	Input weight: 0.423554
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.406136
+	Input weight: 0.083883
+	Input weight: 0.412870
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.961027
+	Input weight: 0.936642
+	Input weight: 0.027182
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.140825
+	Input weight: 0.136992
+	Input weight: 0.158142
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.529330
+	Input weight: 0.531621
+	Input weight: 0.507337
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.083337
+	Input weight: 0.128089
+	Input weight: 0.161179
+	Input weight: 0.131153
+	Input weight: 0.129575
+	Input weight: 0.138195
+	Input weight: 0.139556
+	Input weight: 0.135337
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.162314
+	Input weight: 0.206264
+	Input weight: 0.156116
+	Input weight: 0.145245
+	Input weight: 0.140266
+	Input weight: 0.152622
+	Input weight: 0.133116
+	Input weight: 0.140564
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.163320
+	Input weight: 0.130226
+	Input weight: 0.128288
+	Input weight: 0.097304
+	Input weight: 0.156457
+	Input weight: 0.145316
+	Input weight: 0.139972
+	Input weight: 0.087236
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.179852
+	Input weight: 0.140207
+	Input weight: 0.102277
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.163186
+	Input weight: 0.108481
+	Input weight: 0.165252
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.094697
+	Input weight: 0.170896
+	Input weight: 0.164951
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.533399
+	Input weight: 0.516652
+	Input weight: 0.505019
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.146013
+	Input weight: 0.113423
+	Input weight: 0.058075
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.925375
+	Input weight: 0.911840
+	Input weight: 0.899094
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.398550
+	Input weight: 0.414515
+	Input weight: 0.423554
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.406136
+	Input weight: 0.083883
+	Input weight: 0.412870
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.961027
+	Input weight: 0.936642
+	Input weight: 0.027182
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.140825
+	Input weight: 0.136992
+	Input weight: 0.158142
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.529330
+	Input weight: 0.531621
+	Input weight: 0.507337
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.082708
+	Input weight: 0.126034
+	Input weight: 0.157328
+	Input weight: 0.128960
+	Input weight: 0.127455
+	Input weight: 0.135665
+	Input weight: 0.136957
+	Input weight: 0.132947
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.158460
+	Input weight: 0.198882
+	Input weight: 0.152652
+	Input weight: 0.142403
+	Input weight: 0.137685
+	Input weight: 0.149366
+	Input weight: 0.130882
+	Input weight: 0.137967
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.159359
+	Input weight: 0.128097
+	Input weight: 0.126245
+	Input weight: 0.096351
+	Input weight: 0.152934
+	Input weight: 0.142438
+	Input weight: 0.137375
+	Input weight: 0.086532
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.179852
+	Input weight: 0.140207
+	Input weight: 0.102277
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.163186
+	Input weight: 0.108481
+	Input weight: 0.165252
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.094697
+	Input weight: 0.170896
+	Input weight: 0.164951
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.533399
+	Input weight: 0.516652
+	Input weight: 0.505019
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.146013
+	Input weight: 0.113423
+	Input weight: 0.058075
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.925375
+	Input weight: 0.911840
+	Input weight: 0.899094
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.398550
+	Input weight: 0.414515
+	Input weight: 0.423554
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.406136
+	Input weight: 0.083883
+	Input weight: 0.412870
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.961027
+	Input weight: 0.936642
+	Input weight: 0.027182
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.140825
+	Input weight: 0.136992
+	Input weight: 0.158142
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.529330
+	Input weight: 0.531621
+	Input weight: 0.507337
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.082708
+	Input weight: 0.126034
+	Input weight: 0.157328
+	Input weight: 0.128960
+	Input weight: 0.127455
+	Input weight: 0.135665
+	Input weight: 0.136957
+	Input weight: 0.132947
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.158460
+	Input weight: 0.198882
+	Input weight: 0.152652
+	Input weight: 0.142403
+	Input weight: 0.137685
+	Input weight: 0.149366
+	Input weight: 0.130882
+	Input weight: 0.137967
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.159359
+	Input weight: 0.128097
+	Input weight: 0.126245
+	Input weight: 0.096351
+	Input weight: 0.152934
+	Input weight: 0.142438
+	Input weight: 0.137375
+	Input weight: 0.086532
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.179852
+	Input weight: 0.140207
+	Input weight: 0.102277
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.163186
+	Input weight: 0.108481
+	Input weight: 0.165252
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.094697
+	Input weight: 0.170896
+	Input weight: 0.164951
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.595343
+	Input weight: 0.579014
+	Input weight: 0.567507
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.143354
+	Input weight: 0.112129
+	Input weight: 0.057891
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.930144
+	Input weight: 0.918302
+	Input weight: 0.907324
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.360474
+	Input weight: 0.372815
+	Input weight: 0.379753
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.366353
+	Input weight: 0.083343
+	Input weight: 0.371548
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.962430
+	Input weight: 0.940164
+	Input weight: 0.027881
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.138425
+	Input weight: 0.134774
+	Input weight: 0.154813
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.591400
+	Input weight: 0.593622
+	Input weight: 0.569810
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.082708
+	Input weight: 0.126034
+	Input weight: 0.157328
+	Input weight: 0.128960
+	Input weight: 0.127455
+	Input weight: 0.135665
+	Input weight: 0.136957
+	Input weight: 0.132947
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.158460
+	Input weight: 0.198882
+	Input weight: 0.152652
+	Input weight: 0.142403
+	Input weight: 0.137685
+	Input weight: 0.149366
+	Input weight: 0.130882
+	Input weight: 0.137967
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.159359
+	Input weight: 0.128097
+	Input weight: 0.126245
+	Input weight: 0.096351
+	Input weight: 0.152934
+	Input weight: 0.142438
+	Input weight: 0.137375
+	Input weight: 0.086532
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.176335
+	Input weight: 0.138637
+	Input weight: 0.101760
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.161524
+	Input weight: 0.108272
+	Input weight: 0.163505
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.094295
+	Input weight: 0.167853
+	Input weight: 0.162232
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.595343
+	Input weight: 0.579014
+	Input weight: 0.567507
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.143354
+	Input weight: 0.112129
+	Input weight: 0.057891
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.930144
+	Input weight: 0.918302
+	Input weight: 0.907324
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.360474
+	Input weight: 0.372815
+	Input weight: 0.379753
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.366353
+	Input weight: 0.083343
+	Input weight: 0.371548
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.962430
+	Input weight: 0.940164
+	Input weight: 0.027881
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.138425
+	Input weight: 0.134774
+	Input weight: 0.154813
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.591400
+	Input weight: 0.593622
+	Input weight: 0.569810
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.082154
+	Input weight: 0.124207
+	Input weight: 0.153930
+	Input weight: 0.127011
+	Input weight: 0.125569
+	Input weight: 0.133418
+	Input weight: 0.134650
+	Input weight: 0.130824
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.155010
+	Input weight: 0.192427
+	Input weight: 0.149542
+	Input weight: 0.139843
+	Input weight: 0.135355
+	Input weight: 0.146440
+	Input weight: 0.128861
+	Input weight: 0.135624
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.155851
+	Input weight: 0.126193
+	Input weight: 0.124417
+	Input weight: 0.095501
+	Input weight: 0.149806
+	Input weight: 0.139873
+	Input weight: 0.135057
+	Input weight: 0.085906
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.176335
+	Input weight: 0.138637
+	Input weight: 0.101760
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.161524
+	Input weight: 0.108272
+	Input weight: 0.163505
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.094295
+	Input weight: 0.167853
+	Input weight: 0.162232
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.595343
+	Input weight: 0.579014
+	Input weight: 0.567507
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.143354
+	Input weight: 0.112129
+	Input weight: 0.057891
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.930144
+	Input weight: 0.918302
+	Input weight: 0.907324
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.360474
+	Input weight: 0.372815
+	Input weight: 0.379753
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.366353
+	Input weight: 0.083343
+	Input weight: 0.371548
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.962430
+	Input weight: 0.940164
+	Input weight: 0.027881
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.138425
+	Input weight: 0.134774
+	Input weight: 0.154813
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.591400
+	Input weight: 0.593622
+	Input weight: 0.569810
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.082154
+	Input weight: 0.124207
+	Input weight: 0.153930
+	Input weight: 0.127011
+	Input weight: 0.125569
+	Input weight: 0.133418
+	Input weight: 0.134650
+	Input weight: 0.130824
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.155010
+	Input weight: 0.192427
+	Input weight: 0.149542
+	Input weight: 0.139843
+	Input weight: 0.135355
+	Input weight: 0.146440
+	Input weight: 0.128861
+	Input weight: 0.135624
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.155851
+	Input weight: 0.126193
+	Input weight: 0.124417
+	Input weight: 0.095501
+	Input weight: 0.149806
+	Input weight: 0.139873
+	Input weight: 0.135057
+	Input weight: 0.085906
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.176335
+	Input weight: 0.138637
+	Input weight: 0.101760
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.161524
+	Input weight: 0.108272
+	Input weight: 0.163505
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.094295
+	Input weight: 0.167853
+	Input weight: 0.162232
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.509956
+	Input weight: 0.497293
+	Input weight: 0.488459
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.140831
+	Input weight: 0.110877
+	Input weight: 0.057708
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.934366
+	Input weight: 0.923931
+	Input weight: 0.914395
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.330519
+	Input weight: 0.340316
+	Input weight: 0.345785
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.335197
+	Input weight: 0.082812
+	Input weight: 0.339314
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.963737
+	Input weight: 0.943329
+	Input weight: 0.028615
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.136140
+	Input weight: 0.132656
+	Input weight: 0.151677
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.649793
+	Input weight: 0.651816
+	Input weight: 0.629897
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.082154
+	Input weight: 0.124207
+	Input weight: 0.153930
+	Input weight: 0.127011
+	Input weight: 0.125569
+	Input weight: 0.133418
+	Input weight: 0.134650
+	Input weight: 0.130824
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.155010
+	Input weight: 0.192427
+	Input weight: 0.149542
+	Input weight: 0.139843
+	Input weight: 0.135355
+	Input weight: 0.146440
+	Input weight: 0.128861
+	Input weight: 0.135624
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.155851
+	Input weight: 0.126193
+	Input weight: 0.124417
+	Input weight: 0.095501
+	Input weight: 0.149806
+	Input weight: 0.139873
+	Input weight: 0.135057
+	Input weight: 0.085906
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.169581
+	Input weight: 0.134895
+	Input weight: 0.100001
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.156872
+	Input weight: 0.106606
+	Input weight: 0.158705
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.092886
+	Input weight: 0.162027
+	Input weight: 0.156876
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.509956
+	Input weight: 0.497293
+	Input weight: 0.488459
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.140831
+	Input weight: 0.110877
+	Input weight: 0.057708
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.934366
+	Input weight: 0.923931
+	Input weight: 0.914395
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.330519
+	Input weight: 0.340316
+	Input weight: 0.345785
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.335197
+	Input weight: 0.082812
+	Input weight: 0.339314
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.963737
+	Input weight: 0.943329
+	Input weight: 0.028615
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.136140
+	Input weight: 0.132656
+	Input weight: 0.151677
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.649793
+	Input weight: 0.651816
+	Input weight: 0.629897
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.081565
+	Input weight: 0.122356
+	Input weight: 0.150587
+	Input weight: 0.125042
+	Input weight: 0.123661
+	Input weight: 0.131162
+	Input weight: 0.132336
+	Input weight: 0.128688
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.151634
+	Input weight: 0.186337
+	Input weight: 0.146485
+	Input weight: 0.137302
+	Input weight: 0.133033
+	Input weight: 0.143553
+	Input weight: 0.126835
+	Input weight: 0.133289
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.152411
+	Input weight: 0.124271
+	Input weight: 0.122570
+	Input weight: 0.094615
+	Input weight: 0.146720
+	Input weight: 0.137319
+	Input weight: 0.132738
+	Input weight: 0.085246
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.169581
+	Input weight: 0.134895
+	Input weight: 0.100001
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.156872
+	Input weight: 0.106606
+	Input weight: 0.158705
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.092886
+	Input weight: 0.162027
+	Input weight: 0.156876
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.509956
+	Input weight: 0.497293
+	Input weight: 0.488459
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.140831
+	Input weight: 0.110877
+	Input weight: 0.057708
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.934366
+	Input weight: 0.923931
+	Input weight: 0.914395
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.330519
+	Input weight: 0.340316
+	Input weight: 0.345785
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.335197
+	Input weight: 0.082812
+	Input weight: 0.339314
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.963737
+	Input weight: 0.943329
+	Input weight: 0.028615
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.136140
+	Input weight: 0.132656
+	Input weight: 0.151677
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.649793
+	Input weight: 0.651816
+	Input weight: 0.629897
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.081565
+	Input weight: 0.122356
+	Input weight: 0.150587
+	Input weight: 0.125042
+	Input weight: 0.123661
+	Input weight: 0.131162
+	Input weight: 0.132336
+	Input weight: 0.128688
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.151634
+	Input weight: 0.186337
+	Input weight: 0.146485
+	Input weight: 0.137302
+	Input weight: 0.133033
+	Input weight: 0.143553
+	Input weight: 0.126835
+	Input weight: 0.133289
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.152411
+	Input weight: 0.124271
+	Input weight: 0.122570
+	Input weight: 0.094615
+	Input weight: 0.146720
+	Input weight: 0.137319
+	Input weight: 0.132738
+	Input weight: 0.085246
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.169581
+	Input weight: 0.134895
+	Input weight: 0.100001
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.156872
+	Input weight: 0.106606
+	Input weight: 0.158705
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.092886
+	Input weight: 0.162027
+	Input weight: 0.156876
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.572407
+	Input weight: 0.559789
+	Input weight: 0.550892
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.138431
+	Input weight: 0.109665
+	Input weight: 0.057527
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.880825
+	Input weight: 0.863934
+	Input weight: 0.848946
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.379482
+	Input weight: 0.390716
+	Input weight: 0.396959
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.384854
+	Input weight: 0.088581
+	Input weight: 0.389571
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.964958
+	Input weight: 0.946187
+	Input weight: 0.029388
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.133960
+	Input weight: 0.130631
+	Input weight: 0.148717
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.553709
+	Input weight: 0.555393
+	Input weight: 0.537399
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.081565
+	Input weight: 0.122356
+	Input weight: 0.150587
+	Input weight: 0.125042
+	Input weight: 0.123661
+	Input weight: 0.131162
+	Input weight: 0.132336
+	Input weight: 0.128688
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.151634
+	Input weight: 0.186337
+	Input weight: 0.146485
+	Input weight: 0.137302
+	Input weight: 0.133033
+	Input weight: 0.143553
+	Input weight: 0.126835
+	Input weight: 0.133289
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.152411
+	Input weight: 0.124271
+	Input weight: 0.122570
+	Input weight: 0.094615
+	Input weight: 0.146720
+	Input weight: 0.137319
+	Input weight: 0.132738
+	Input weight: 0.085246
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.165724
+	Input weight: 0.132899
+	Input weight: 0.099174
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.152826
+	Input weight: 0.105136
+	Input weight: 0.154534
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.092187
+	Input weight: 0.158540
+	Input weight: 0.153694
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.572407
+	Input weight: 0.559789
+	Input weight: 0.550892
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.138431
+	Input weight: 0.109665
+	Input weight: 0.057527
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.880825
+	Input weight: 0.863934
+	Input weight: 0.848946
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.379482
+	Input weight: 0.390716
+	Input weight: 0.396959
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.384854
+	Input weight: 0.088581
+	Input weight: 0.389571
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.964958
+	Input weight: 0.946187
+	Input weight: 0.029388
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.133960
+	Input weight: 0.130631
+	Input weight: 0.148717
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.553709
+	Input weight: 0.555393
+	Input weight: 0.537399
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.081015
+	Input weight: 0.120635
+	Input weight: 0.147521
+	Input weight: 0.123214
+	Input weight: 0.121888
+	Input weight: 0.129073
+	Input weight: 0.130194
+	Input weight: 0.126707
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.148541
+	Input weight: 0.180876
+	Input weight: 0.143675
+	Input weight: 0.134955
+	Input weight: 0.130885
+	Input weight: 0.140897
+	Input weight: 0.124956
+	Input weight: 0.131130
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.149249
+	Input weight: 0.122480
+	Input weight: 0.120846
+	Input weight: 0.093782
+	Input weight: 0.143875
+	Input weight: 0.134952
+	Input weight: 0.130585
+	Input weight: 0.084625
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.165724
+	Input weight: 0.132899
+	Input weight: 0.099174
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.152826
+	Input weight: 0.105136
+	Input weight: 0.154534
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.092187
+	Input weight: 0.158540
+	Input weight: 0.153694
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.572407
+	Input weight: 0.559789
+	Input weight: 0.550892
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.138431
+	Input weight: 0.109665
+	Input weight: 0.057527
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.880825
+	Input weight: 0.863934
+	Input weight: 0.848946
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.379482
+	Input weight: 0.390716
+	Input weight: 0.396959
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.384854
+	Input weight: 0.088581
+	Input weight: 0.389571
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.964958
+	Input weight: 0.946187
+	Input weight: 0.029388
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.133960
+	Input weight: 0.130631
+	Input weight: 0.148717
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.553709
+	Input weight: 0.555393
+	Input weight: 0.537399
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.081015
+	Input weight: 0.120635
+	Input weight: 0.147521
+	Input weight: 0.123214
+	Input weight: 0.121888
+	Input weight: 0.129073
+	Input weight: 0.130194
+	Input weight: 0.126707
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.148541
+	Input weight: 0.180876
+	Input weight: 0.143675
+	Input weight: 0.134955
+	Input weight: 0.130885
+	Input weight: 0.140897
+	Input weight: 0.124956
+	Input weight: 0.131130
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.149249
+	Input weight: 0.122480
+	Input weight: 0.120846
+	Input weight: 0.093782
+	Input weight: 0.143875
+	Input weight: 0.134952
+	Input weight: 0.130585
+	Input weight: 0.084625
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.165724
+	Input weight: 0.132899
+	Input weight: 0.099174
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.152826
+	Input weight: 0.105136
+	Input weight: 0.154534
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.092187
+	Input weight: 0.158540
+	Input weight: 0.153694
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.492212
+	Input weight: 0.482568
+	Input weight: 0.475808
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.136145
+	Input weight: 0.108491
+	Input weight: 0.057348
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.891844
+	Input weight: 0.877753
+	Input weight: 0.865391
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.345572
+	Input weight: 0.354375
+	Input weight: 0.359238
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.349790
+	Input weight: 0.087947
+	Input weight: 0.353480
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.966102
+	Input weight: 0.948779
+	Input weight: 0.030202
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.131878
+	Input weight: 0.128693
+	Input weight: 0.145917
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.614775
+	Input weight: 0.616368
+	Input weight: 0.599202
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.081015
+	Input weight: 0.120635
+	Input weight: 0.147521
+	Input weight: 0.123214
+	Input weight: 0.121888
+	Input weight: 0.129073
+	Input weight: 0.130194
+	Input weight: 0.126707
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.148541
+	Input weight: 0.180876
+	Input weight: 0.143675
+	Input weight: 0.134955
+	Input weight: 0.130885
+	Input weight: 0.140897
+	Input weight: 0.124956
+	Input weight: 0.131130
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.149249
+	Input weight: 0.122480
+	Input weight: 0.120846
+	Input weight: 0.093782
+	Input weight: 0.143875
+	Input weight: 0.134952
+	Input weight: 0.130585
+	Input weight: 0.084625
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.160087
+	Input weight: 0.129633
+	Input weight: 0.097583
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.149012
+	Input weight: 0.103702
+	Input weight: 0.150608
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.090914
+	Input weight: 0.153647
+	Input weight: 0.149166
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.492212
+	Input weight: 0.482568
+	Input weight: 0.475808
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.136145
+	Input weight: 0.108491
+	Input weight: 0.057348
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.891844
+	Input weight: 0.877753
+	Input weight: 0.865391
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.345572
+	Input weight: 0.354375
+	Input weight: 0.359238
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.349790
+	Input weight: 0.087947
+	Input weight: 0.353480
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.966102
+	Input weight: 0.948779
+	Input weight: 0.030202
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.131878
+	Input weight: 0.128693
+	Input weight: 0.145917
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.614775
+	Input weight: 0.616368
+	Input weight: 0.599202
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.080461
+	Input weight: 0.118954
+	Input weight: 0.144585
+	Input weight: 0.121431
+	Input weight: 0.120158
+	Input weight: 0.127045
+	Input weight: 0.128117
+	Input weight: 0.124780
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.145570
+	Input weight: 0.175772
+	Input weight: 0.140965
+	Input weight: 0.132678
+	Input weight: 0.128794
+	Input weight: 0.138330
+	Input weight: 0.123117
+	Input weight: 0.129028
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.146230
+	Input weight: 0.120735
+	Input weight: 0.119166
+	Input weight: 0.092954
+	Input weight: 0.141147
+	Input weight: 0.132668
+	Input weight: 0.128500
+	Input weight: 0.084004
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.160087
+	Input weight: 0.129633
+	Input weight: 0.097583
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.149012
+	Input weight: 0.103702
+	Input weight: 0.150608
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.090914
+	Input weight: 0.153647
+	Input weight: 0.149166
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.492212
+	Input weight: 0.482568
+	Input weight: 0.475808
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.136145
+	Input weight: 0.108491
+	Input weight: 0.057348
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.891844
+	Input weight: 0.877753
+	Input weight: 0.865391
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.345572
+	Input weight: 0.354375
+	Input weight: 0.359238
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.349790
+	Input weight: 0.087947
+	Input weight: 0.353480
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.966102
+	Input weight: 0.948779
+	Input weight: 0.030202
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.131878
+	Input weight: 0.128693
+	Input weight: 0.145917
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.614775
+	Input weight: 0.616368
+	Input weight: 0.599202
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.080461
+	Input weight: 0.118954
+	Input weight: 0.144585
+	Input weight: 0.121431
+	Input weight: 0.120158
+	Input weight: 0.127045
+	Input weight: 0.128117
+	Input weight: 0.124780
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.145570
+	Input weight: 0.175772
+	Input weight: 0.140965
+	Input weight: 0.132678
+	Input weight: 0.128794
+	Input weight: 0.138330
+	Input weight: 0.123117
+	Input weight: 0.129028
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.146230
+	Input weight: 0.120735
+	Input weight: 0.119166
+	Input weight: 0.092954
+	Input weight: 0.141147
+	Input weight: 0.132668
+	Input weight: 0.128500
+	Input weight: 0.084004
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.160087
+	Input weight: 0.129633
+	Input weight: 0.097583
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.149012
+	Input weight: 0.103702
+	Input weight: 0.150608
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.090914
+	Input weight: 0.153647
+	Input weight: 0.149166
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.554682
+	Input weight: 0.544916
+	Input weight: 0.538015
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.133965
+	Input weight: 0.107353
+	Input weight: 0.057170
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.901149
+	Input weight: 0.889266
+	Input weight: 0.878961
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.396716
+	Input weight: 0.406721
+	Input weight: 0.412224
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.401517
+	Input weight: 0.094381
+	Input weight: 0.405707
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.967174
+	Input weight: 0.951141
+	Input weight: 0.031059
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.129887
+	Input weight: 0.126836
+	Input weight: 0.143263
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.525267
+	Input weight: 0.526535
+	Input weight: 0.512975
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.080461
+	Input weight: 0.118954
+	Input weight: 0.144585
+	Input weight: 0.121431
+	Input weight: 0.120158
+	Input weight: 0.127045
+	Input weight: 0.128117
+	Input weight: 0.124780
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.145570
+	Input weight: 0.175772
+	Input weight: 0.140965
+	Input weight: 0.132678
+	Input weight: 0.128794
+	Input weight: 0.138330
+	Input weight: 0.123117
+	Input weight: 0.129028
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.146230
+	Input weight: 0.120735
+	Input weight: 0.119166
+	Input weight: 0.092954
+	Input weight: 0.141147
+	Input weight: 0.132668
+	Input weight: 0.128500
+	Input weight: 0.084004
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.158407
+	Input weight: 0.128937
+	Input weight: 0.097450
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.146993
+	Input weight: 0.103109
+	Input weight: 0.148519
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.090928
+	Input weight: 0.152431
+	Input weight: 0.148099
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.554682
+	Input weight: 0.544916
+	Input weight: 0.538015
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.133965
+	Input weight: 0.107353
+	Input weight: 0.057170
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.901149
+	Input weight: 0.889266
+	Input weight: 0.878961
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.396716
+	Input weight: 0.406721
+	Input weight: 0.412224
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.401517
+	Input weight: 0.094381
+	Input weight: 0.405707
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.967174
+	Input weight: 0.951141
+	Input weight: 0.031059
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.129887
+	Input weight: 0.126836
+	Input weight: 0.143263
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.525267
+	Input weight: 0.526535
+	Input weight: 0.512975
+
+New epoche: 
+Layer => Neuron, input weights: 8, activity: 0.420614
+	Input weight: 0.079960
+	Input weight: 0.117425
+	Input weight: 0.141934
+	Input weight: 0.119810
+	Input weight: 0.118585
+	Input weight: 0.125203
+	Input weight: 0.126231
+	Input weight: 0.123029
+Neuron, input weights: 8, activity: 0.129382
+	Input weight: 0.142889
+	Input weight: 0.171232
+	Input weight: 0.138516
+	Input weight: 0.130614
+	Input weight: 0.126896
+	Input weight: 0.136008
+	Input weight: 0.121448
+	Input weight: 0.127120
+Neuron, input weights: 8, activity: 0.695231
+	Input weight: 0.143501
+	Input weight: 0.119146
+	Input weight: 0.117634
+	Input weight: 0.092200
+	Input weight: 0.138676
+	Input weight: 0.130592
+	Input weight: 0.126604
+	Input weight: 0.083440
+Layer => Neuron, input weights: 3, activity: 0.116521
+	Input weight: 0.158407
+	Input weight: 0.128937
+	Input weight: 0.097450
+Neuron, input weights: 3, activity: 0.756082
+	Input weight: 0.146993
+	Input weight: 0.103109
+	Input weight: 0.148519
+Neuron, input weights: 3, activity: 0.395643
+	Input weight: 0.090928
+	Input weight: 0.152431
+	Input weight: 0.148099
+Layer => Neuron, input weights: 3, activity: 0.752104
+	Input weight: 0.554682
+	Input weight: 0.544916
+	Input weight: 0.538015
+Neuron, input weights: 3, activity: 0.183273
+	Input weight: 0.133965
+	Input weight: 0.107353
+	Input weight: 0.057170
+Neuron, input weights: 3, activity: 0.862799
+	Input weight: 0.901149
+	Input weight: 0.889266
+	Input weight: 0.878961
+Neuron, input weights: 3, activity: 0.672214
+	Input weight: 0.396716
+	Input weight: 0.406721
+	Input weight: 0.412224
+Neuron, input weights: 3, activity: 0.671275
+	Input weight: 0.401517
+	Input weight: 0.094381
+	Input weight: 0.405707
+Neuron, input weights: 3, activity: 0.943955
+	Input weight: 0.967174
+	Input weight: 0.951141
+	Input weight: 0.031059
+Neuron, input weights: 3, activity: 0.497580
+	Input weight: 0.129887
+	Input weight: 0.126836
+	Input weight: 0.143263
+Neuron, input weights: 3, activity: 0.763883
+	Input weight: 0.525267
+	Input weight: 0.526535
+	Input weight: 0.512975
+
