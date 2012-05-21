@@ -1,2 +1,4 @@
 *.pyc
 neuronet.komodoproject
+*.dat
+*.ui
