@@ -89,19 +89,19 @@ class NeuronNetwork:
     
     def learn(self, pairs, max_error = 0.01):
         for pair in pairs:
-            is_done = False
-            while not is_done:
+            #is_done = False
+            #while not is_done:
                 result = self.calculate(pair[0])
                 delta = [float(result[i]) - float(pair[1][i]) for i in xrange(len(result))]
-                alpha = 1.0 / sum([neuron.output**2 for neuron in self.layers[0]])
+                alpha = 1.0 / (sum([neuron.output**2 for neuron in self.layers[0]]) + 0.0001)
                 for neuron_num in xrange(len(self.layers[1])):
                     for weight_num in xrange(len(self.layers[1][neuron_num].weights)):
                         self.layers[1][neuron_num].weights[weight_num] -= alpha * self.layers[0][weight_num].output * delta[neuron_num]
-                alpha = 1.0 / sum([float(x)**2 for x in pair[1]])
+                alpha = 1.0 / (sum([float(x)**2 for x in pair[1]]) + 0.0001)
                 for neuron_num in xrange(len(self.layers[0])):
                     for weight_num in xrange(len(self.layers[0][neuron_num].weights)):
                         self.layers[0][neuron_num].weights[weight_num] -= alpha * pair[1][weight_num] * delta[weight_num] * self.layers[1][weight_num].weights[neuron_num]
-                error = float(sum([x**2 for x in delta]))
+                self.error = float(sum([x**2 for x in delta]))
                 for neuron in self.layers[0]:
                     m1 = math.sqrt(sum([weight**2 for weight in neuron.weights]))
                     for weight_num in xrange(len(neuron.weights)):
@@ -110,10 +110,7 @@ class NeuronNetwork:
                     m2 = math.sqrt(sum([weight**2 for weight in neuron.weights]))
                     for weight_num in xrange(len(neuron.weights)):
                         neuron.weights[weight_num] /= m2
-                #print self
-                #print 'error %f, max error %f' % (error, max_error)
-                #time.sleep(0.1)
-                if error <= max_error: is_done = True
+                #if self.error <= max_error: is_done = True
     
 def generate(layers):
     nn = NeuronNetwork()
