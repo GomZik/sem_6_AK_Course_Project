@@ -27,7 +27,7 @@ class ProcessThread(QThread):
         width = int(math.ceil(float(self.image.width()) / self.h_parts))
         height = int(math.ceil(float(self.image.height()) / self.v_parts))
         while iteration:
-            if i_count == 0: iteration = False
+            if i_count == 2: iteration = False
             error = 0.0
             for i in xrange(self.nn_count):
                 x = (i % self.h_parts) * width
@@ -132,10 +132,10 @@ class MWindow(QWidget):
         if not image_path.isNull():
             image_path = unicode(image_path)
             self.image = QImage(image_path)
-            self.ui.txt_h_parts.setValue(int(math.ceil(float(self.image.width()) / 1)))
-            self.ui.txt_v_parts.setValue(int(math.ceil(float(self.image.height()) / 1)))
+            self.ui.txt_h_parts.setValue(int(math.ceil(float(self.image.width()) / 3)))
+            self.ui.txt_v_parts.setValue(int(math.ceil(float(self.image.height()) / 3)))
             self.ui.txt_max_error.setValue(25)
-            self.ui.txt_zip.setValue(3)
+            self.ui.txt_zip.setValue(21)
             pixmap = QPixmap.fromImage(self.image)
             sc = QGraphicsScene()
             sc.addPixmap(pixmap)
